@@ -1,0 +1,2683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Golden Sands Baptist Church Sermons</title>
+    <link>https://www.goldensandsbaptist.com/</link>
+    <atom:link href="https://gsb-operations.github.io/gsbc-podcast/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-NZ</language>
+    <copyright>Golden Sands Baptist Church</copyright>
+    <description><![CDATA[Sunday sermons from Golden Sands Baptist Church in Papamoa, New Zealand.]]></description>
+    <lastBuildDate>Thu, 07 May 2026 23:38:22 +0000</lastBuildDate>
+    <itunes:author>Golden Sands Baptist Church</itunes:author>
+    <itunes:summary><![CDATA[Sunday sermons from Golden Sands Baptist Church in Papamoa, New Zealand.]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name>Golden Sands Baptist Church</itunes:name>
+      <itunes:email>operations@goldensands.nz</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Youth Report Back</title>
+      <description><![CDATA[<p>GSB Youth</p><p><br /></p><p>18 May 2025</p>]]></description>
+      <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6ac46cdd-4422-4c38-91c5-0511cb38cfa5</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-05-18-63cdba/18%20May%2025%20-%20Youth%20Report%20Back.mp3" length="36134674" type="audio/mpeg"/>
+      <itunes:title>Youth Report Back</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - The Fig Tree</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p>11 May 2025</p>]]></description>
+      <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">19a89f01-3202-4318-9fe7-a6dfa9d527bf</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-05-11-0d6118/11%20May%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20The%20Fig%20Tree.mp3" length="46080845" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - The Fig Tree</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Michael Rhodes</title>
+      <description><![CDATA[<p>Michael Rhodes</p><p><br /></p><p>4 May 2025</p>]]></description>
+      <pubDate>Sun, 04 May 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">447060cb-e9a0-4d52-8400-369973300fb3</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-05-04-440253/04%20May%2025%20-%20Michael%20Rhodes.mp3" length="34885457" type="audio/mpeg"/>
+      <itunes:title>Michael Rhodes</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Cleansing of Temple</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>27 April 2025</p>]]></description>
+      <pubDate>Sun, 27 Apr 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a6234625-d464-4fe7-b832-3863b767a3ce</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-04-27-67f814/27%20Apr%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Cleansing%20of%20Temple.mp3" length="40957895" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Cleansing of Temple</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Easter Sunday</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>20 April 2025</p>]]></description>
+      <pubDate>Sun, 20 Apr 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">10188c3d-6771-4336-b237-f9837a94a537</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-04-20-5b3460/20%20Apr%2025%20-%20Easter%20Sunday.mp3" length="19663220" type="audio/mpeg"/>
+      <itunes:title>Easter Sunday</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Palm Sunday</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>13 April 2025</p>]]></description>
+      <pubDate>Sun, 13 Apr 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">77571c4d-c19f-406b-85e9-c8603eb317c9</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-04-13-dadcab/13%20Apr%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Palm%20Sunday.mp3" length="40016125" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Palm Sunday</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Healing of the Blind</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>6 April 2025</p>]]></description>
+      <pubDate>Sun, 06 Apr 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8d08a4bb-d0ab-4a59-9dc5-bf1fd9ccd894</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-04-06-e2dcfd/06%20Apr%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Healing%20of%20the%20Blind.mp3" length="42306365" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Healing of the Blind</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Greatness in the Kingdom</title>
+      <description><![CDATA[<p>Lindsey Bade</p><p><br /></p><p>30 March 2025</p>]]></description>
+      <pubDate>Sun, 30 Mar 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04603141-9ba0-4534-8721-8fc4438f1a62</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-03-30-ae69e0/30%20Mar%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Greatness%20in%20the%20Kingdom.mp3" length="32424915" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Greatness in the Kingdom</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Workers In the Vineyard</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>23 March 2025</p>]]></description>
+      <pubDate>Sun, 23 Mar 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ecc27c72-74cb-4c61-bbd2-fa318e287905</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-03-23-663bf1/23%20Mar%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Workers%20In%20the%20Vineyard.mp3" length="45803652" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Workers In the Vineyard</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Rich &amp; The Kingdom</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>16 March 2025</p>]]></description>
+      <pubDate>Sun, 16 Mar 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">76ec1955-6449-47b9-82c1-d6b6e497473e</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-03-16-8b187e/16%20Mar%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Rich%20%26%20The%20Kingdom.mp3" length="44315765" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Rich &amp; The Kingdom</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Singleness &amp; Children</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>9 March 2025</p>]]></description>
+      <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">436b81de-4257-443e-b3cc-800f97b8e767</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-03-09-f4187a/09%20Mar%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Singleness%20%26%20Children.mp3" length="39270052" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Singleness &amp; Children</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew: Towards Jerusalem - Marriage &amp; Divorce</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>2 March 2025</p>]]></description>
+      <pubDate>Sun, 02 Mar 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c9134f4c-56bc-4b20-be6e-de7214ada71a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-03-02-1586ae/02%20Mar%2025%20-%20Matthew%20Towards%20Jerusalem%20-%20Marriage%20%26%20Divorce.mp3" length="51735131" type="audio/mpeg"/>
+      <itunes:title>Matthew: Towards Jerusalem - Marriage &amp; Divorce</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>One Another - Blessing &amp; Elevating</title>
+      <description><![CDATA[<p>Jordan Farnum</p><p><br /></p><p>23 February 2025</p>]]></description>
+      <pubDate>Sun, 23 Feb 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">125a5283-c465-499f-95c8-9edbb64dfbaa</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-02-23-28f749/23%20Feb%2025%20-%20One%20Another%20-%20Blessing%20%26%20Elevating.mp3" length="44922388" type="audio/mpeg"/>
+      <itunes:title>One Another - Blessing &amp; Elevating</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>One Another - Gifts &amp; Participation</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>16 February 2025</p>]]></description>
+      <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0ece8e9b-83f7-44ec-b260-820de668854f</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-02-16-f1372e/16%20Feb%2025%20-%20One%20Another%20-%20Gifts%20%26%20Participation.mp3" length="44405003" type="audio/mpeg"/>
+      <itunes:title>One Another - Gifts &amp; Participation</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>One Another - Humility &amp; Pride</title>
+      <description><![CDATA[<p>Jordan Farnum</p><p><br /></p><p>9 February 2025</p>]]></description>
+      <pubDate>Sun, 09 Feb 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2ed63720-0136-4d89-af16-d00909b115b0</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-02-09-fc1b32/09%20Feb%2025%20-%20One%20Another%20-%20Humility%20%26%20Pride.mp3" length="36043530" type="audio/mpeg"/>
+      <itunes:title>One Another - Humility &amp; Pride</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>One Another - Church As Community</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p><p><br /></p><p>2 February 2025</p>]]></description>
+      <pubDate>Sun, 02 Feb 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ed091ffa-a25c-42f1-b09d-7468a8bbf312</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-02-02-f8b1f1/02%20Feb%2025%20-%20One%20Another%20-%20Church%20As%20Community.mp3" length="38105499" type="audio/mpeg"/>
+      <itunes:title>One Another - Church As Community</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series - Blue Bradley</title>
+      <description><![CDATA[<p>Blue Bradley</p><p>26 January 2025</p>]]></description>
+      <pubDate>Sun, 26 Jan 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5adc998b-0c8d-4ec1-97c1-86624f224903</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-01-26-310951/26%20Jan%2025%20-%20Summer%20Series%20-%20Blue%20Bradley.mp3" length="42739039" type="audio/mpeg"/>
+      <itunes:title>Summer Series - Blue Bradley</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series - Bernie Cowan</title>
+      <description><![CDATA[<p>Bernie Cowan</p><p><br /></p><p>19 January 2025</p>]]></description>
+      <pubDate>Sun, 19 Jan 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a934e0ae-b921-4efe-85e2-920ec204d735</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-01-19-a29cca/19%20Jan%2025%20-%20Summer%20Series%20-%20Bernie%20Cowan.mp3" length="31935953" type="audio/mpeg"/>
+      <itunes:title>Summer Series - Bernie Cowan</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series - Cameron &amp; Larissa</title>
+      <description><![CDATA[<p>Cameron &amp; Larissa</p><p><br /></p><p>12 January 2025</p>]]></description>
+      <pubDate>Sun, 12 Jan 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">120cfbf1-004f-4ac2-91ca-e1a80322df0a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-01-12-455571/12%20Jan%2025%20-%20Summer%20Series%20-%20Cameron%20%26%20Larissa.mp3" length="27439900" type="audio/mpeg"/>
+      <itunes:title>Summer Series - Cameron &amp; Larissa</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Advent</title>
+      <description><![CDATA[<p>Colin Gruetzmacher22 December 2024</p>]]></description>
+      <pubDate>Sun, 22 Dec 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a3c941f3-314b-4336-905f-e192239ba19b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-12-22-f654b8/22%20Dec%2024%20-%20Advent.mp3" length="21674473" type="audio/mpeg"/>
+      <itunes:title>Advent</itunes:title>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Keeping In Step with the Spirit</title>
+      <description><![CDATA[<p>Colin Gruetzmacher
+
+15 December 2024</p>]]></description>
+      <pubDate>Sat, 14 Dec 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">865014f3-fd7a-46e6-82ad-9a5b34501f52</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-12-14-2d298a/14%20Dec%2024%20-%20Holy%20Spirit%20-%20Keeping%20In%20Step%20with%20the%20Spirit.mp3" length="33403426" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Keeping In Step with the Spirit</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Baptism</title>
+      <description><![CDATA[<p>Colin Gruetzmacher
+
+8 December 2024</p>]]></description>
+      <pubDate>Sat, 07 Dec 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">151c6dfe-e093-4576-8d33-7a6509055443</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-12-07-a0343b/07%20Dec%2024%20-%20Baptism.mp3" length="6961536" type="audio/mpeg"/>
+      <itunes:title>Baptism</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Healing Physical</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>1 December 2024</p>]]></description>
+      <pubDate>Sat, 30 Nov 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">775f5f5b-ddce-4131-8425-74a10ead75f4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-11-30-46f897/30%20Nov%2024%20-%20Holy%20Spirit%20-%20Healing%20Physical.mp3" length="39589075" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Healing Physical</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Healing - Internal</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>24 November 2024</p>]]></description>
+      <pubDate>Sat, 23 Nov 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">352ce80e-9469-48f9-856a-8328cead6762</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-11-23-681a9c/23%20Nov%2024%20-%20Holy%20Spirit%20-%20Healing%20-%20Internal.mp3" length="36201153" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Healing - Internal</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Speaking In Tounges</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>17 November 2024</p>]]></description>
+      <pubDate>Sat, 16 Nov 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">990f71e0-4ee9-44fe-b50a-05ce923075ba</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-11-16-6be524/16%20Nov%2024%20-%20Holy%20Spirit%20-%20Speaking%20In%20Tounges.mp3" length="42096074" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Speaking In Tounges</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Wisdom / Vocation</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>10 November 2024</p>]]></description>
+      <pubDate>Sat, 09 Nov 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d0ceabf7-f73e-4c84-af77-2e21fdf6c168</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-11-09-0e41c6/09%20Nov%2024%20-%20Holy%20Spirit%20-%20Wisdom%20Vocation.mp3" length="35481702" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Wisdom / Vocation</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Hearing Gods Voice (Prophecy)</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>3 November 2024</p>]]></description>
+      <pubDate>Sat, 02 Nov 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cf43b684-7912-49dd-a14d-5a5b0e42b57f</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-11-02-ab4d8a/02%20Nov%2024%20-%20Holy%20Spirit%20-%20Hearing%20Gods%20Voice%20%28Prophecy%29.mp3" length="47699621" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Hearing Gods Voice (Prophecy)</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Hearing Gods Voice (Discernment)</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>27 October 2024</p>]]></description>
+      <pubDate>Sun, 27 Oct 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">da6f0e51-1626-4480-9740-c83e66e060e1</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-10-27-c75caf/27%20Oct%2024%20-%20Holy%20Spirit%20-%20Hearing%20Gods%20Voice%20%28Discernment%29.mp3" length="52171200" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Hearing Gods Voice (Discernment)</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Gifts: Finished or Today?</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>20 October 2024</p>]]></description>
+      <pubDate>Sun, 20 Oct 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">745b4ce0-bf91-4cec-b3b1-f7d263e41f95</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-10-20-fb9ca4/20%20Oct%2024%20-%20Holy%20Spirit%20-%20Gifts%20Finished%20or%20Today.mp3" length="35546219" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Gifts: Finished or Today?</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Sanctification (Fruit of the Spirit)</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>13 October 2024</p>]]></description>
+      <pubDate>Sun, 13 Oct 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">762d2cb7-20a2-4fcb-817c-b2a3e1fcd12c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-10-13-69df12/13%20Oct%2024%20-%20Holy%20Spirit%20-%20Sanctification%20%28Fruit%20of%20the%20Spirit%29.mp3" length="44473387" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Sanctification (Fruit of the Spirit)</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Eschatology (Now &amp; Not Yet)</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>6 October 2024</p>]]></description>
+      <pubDate>Sun, 06 Oct 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1b7f2aa1-7233-4581-a740-d6afcb6f7c46</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-10-06-cd6074/06%20Oct%2024%20-%20Holy%20Spirit%20-%20Eschatology%20%28Now%20%26%20Not%20Yet%29.mp3" length="38206409" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Eschatology (Now &amp; Not Yet)</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Empowering Presence/Temples</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>29 September 2024</p>]]></description>
+      <pubDate>Sun, 29 Sep 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7b11446a-b745-4b52-a4b6-1a2f4ce63462</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-09-29-56440c/29%20Sep%2024%20-%20Holy%20Spirit%20-%20Empowering%20PresenceTemples.mp3" length="43292786" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Empowering Presence/Temples</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Mission</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>22 September 2024</p>
+<p><br /></p>]]></description>
+      <pubDate>Sun, 22 Sep 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a96fde45-db7f-41c4-9c13-c6bb0163e5e7</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-09-22-e1a0d6/22%20Sep%2024%20-%20Holy%20Spirit%20-%20Mission.mp3" length="39096135" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Mission</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Ruach/Breath</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>15 September 2024</p>]]></description>
+      <pubDate>Sun, 15 Sep 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">98cbeca4-2316-4da2-8155-ada2a9a0a898</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-09-15-e15ad2/15%20Sep%2024%20-%20Holy%20Spirit%20-%20RuachBreath.mp3" length="39128273" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Ruach/Breath</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Person &amp; Trinity</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>8 September 2024</p>]]></description>
+      <pubDate>Sun, 08 Sep 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8e1d7c24-9fc2-476d-bf4a-515b8df7c009</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-09-08-edd768/08%20Sep%2024%20-%20Holy%20Spirit%20-%20Person%20%26%20Trinity.mp3" length="37252175" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Person &amp; Trinity</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Holy Spirit - Are You Thirsty?</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>1 September 2024</p>]]></description>
+      <pubDate>Sun, 01 Sep 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">21eb4a0b-e37b-4285-86d1-b4afbebcdd6e</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-09-01-ca5743/01%20Sep%2024%20-%20Holy%20Spirit%20-%20Are%20You%20Thirsty.mp3" length="41449078" type="audio/mpeg"/>
+      <itunes:title>Holy Spirit - Are You Thirsty?</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Psalms - Lament</title>
+      <description><![CDATA[<p>Bernie Cowan</p>
+<p><br /></p>
+<p>25th August 2024</p>]]></description>
+      <pubDate>Sun, 25 Aug 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5e4a766b-2246-47d6-afcb-379212e43fbc</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-08-25-1407e3/25%20Aug%2024%20-%20Psalms%20-%20Lament.mp3" length="28923549" type="audio/mpeg"/>
+      <itunes:title>Psalms - Lament</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Psalms - Confession</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>18 August 2024</p>]]></description>
+      <pubDate>Sun, 18 Aug 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cd7ff981-e948-4e97-bcb5-a5b1940e1911</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-08-18-958db4/18%20Aug%2024%20-%20Psalms%20-%20Confession.mp3" length="38158075" type="audio/mpeg"/>
+      <itunes:title>Psalms - Confession</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Psalms - A Praise</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>11 August 2024</p>]]></description>
+      <pubDate>Sun, 11 Aug 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dc2671af-0e1b-4a38-a4e7-e523b32699aa</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-08-11-7608c4/11%20Aug%2024%20-%20Psalms%20-%20A%20Praise.mp3" length="33573221" type="audio/mpeg"/>
+      <itunes:title>Psalms - A Praise</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>People</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>4 August 2024</p>]]></description>
+      <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b39c6e16-d181-4a9b-a005-d346013b16be</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-08-04-66595f/04%20Aug%2024%20-%20People.mp3" length="33338593" type="audio/mpeg"/>
+      <itunes:title>People</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 10th Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>28 July 2024</p>]]></description>
+      <pubDate>Sun, 28 Jul 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">99a55613-e4ff-4792-bb6e-fbbe8fb9a17b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-07-28-a27b14/28%20Jul%2024%20-%20Ten%20Commandments%20-%2010th%20Commandment.mp3" length="37567815" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 10th Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Speak Life</title>
+      <description><![CDATA[<p>Jordan Farnum</p>
+<p><br /></p>
+<p>
+21 July 2024</p>]]></description>
+      <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">53c649f8-c77b-4d2b-9474-cfa1861fabb6</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-07-21-5faef9/21%20Jul%2024%20-%20Speak%20Life.mp3" length="32586872" type="audio/mpeg"/>
+      <itunes:title>Speak Life</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 9th Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>14 July 2024</p>]]></description>
+      <pubDate>Sun, 14 Jul 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0ba3159b-d5b0-49c9-972e-42f2542ae069</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-07-14-ed22b6/14%20Jul%2024%20-%20Ten%20Commandments%20-%209th%20Commandment.mp3" length="31519086" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 9th Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 8th Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>7 July 2024</p>]]></description>
+      <pubDate>Sun, 07 Jul 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7e6006ac-d803-47c2-8af5-722867474440</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-07-07-9e7a5e/07%20Jul%2024%20-%20Ten%20Commandments%20-%208th%20Commandment.mp3" length="35708068" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 8th Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matariki 2024</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>30 June 2024</p>]]></description>
+      <pubDate>Sun, 30 Jun 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">18da030c-d8bd-4811-9ebc-9ede42186ac3</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-06-30-34938f/30%20Jun%2024%20-%20Matariki%202024.mp3" length="59457125" type="audio/mpeg"/>
+      <itunes:title>Matariki 2024</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 7th Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>16 June 2024</p>]]></description>
+      <pubDate>Sun, 23 Jun 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b2c1ff5f-29ba-40a7-b182-8ecf782f53fb</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-06-23-0e2a7f/23%20Jun%2024%20-%20Ten%20Commandments%20-%207th%20Commandment.mp3" length="35570192" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 7th Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 6th Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>16 June 2024</p>]]></description>
+      <pubDate>Sun, 16 Jun 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f66fc62f-1074-40d2-a2fb-f05f206d7374</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-06-16-87549f/16%20Jun%2024%20-%20Ten%20Commandments%20-%206th%20Commandment.mp3" length="35603771" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 6th Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Parable of the Sower</title>
+      <description><![CDATA[<p>Monica Carey</p>
+<p>
+9 June 2024</p>]]></description>
+      <pubDate>Sun, 09 Jun 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00d5c2a6-8601-40f1-8d24-601f01b14907</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-06-09-e0dd18/09%20Jun%2024%20-%20Parable%20of%20the%20Sower.mp3" length="38290492" type="audio/mpeg"/>
+      <itunes:title>Parable of the Sower</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 5th Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>2 June 2024</p>]]></description>
+      <pubDate>Sun, 02 Jun 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">445f4dfc-0e22-4173-9c0a-d2f3416debc1</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-06-02-6d9308/02%20Jun%2024%20-%20Ten%20Commandments%20-%205th%20Commandment.mp3" length="35503120" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 5th Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Living With A Bigger Vision</title>
+      <description><![CDATA[<p>David McChesney
+
+26 May 2024</p>]]></description>
+      <pubDate>Sun, 26 May 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">00a4fb2b-b8ed-4e9c-9af0-ab276088e00e</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-05-26-e833ac/26%20May%2024%20-%20Living%20With%20A%20Bigger%20Vision.mp3" length="29412102" type="audio/mpeg"/>
+      <itunes:title>Living With A Bigger Vision</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 4th Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>19 May 2024</p>]]></description>
+      <pubDate>Sun, 19 May 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e19f2dec-4b5c-4722-9972-0450043b0b15</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-05-19-b02d9f/19%20May%2024%20-%20Ten%20Commandments%20-%204th%20Commandment.mp3" length="33721129" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 4th Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Influence</title>
+      <description><![CDATA[<p>Bernie Cowan</p>
+<p>
+12 May 2024
+</p>]]></description>
+      <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d4525492-9e6b-4d7c-8493-bf5cb9b51495</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-05-12-bad5f4/12%20May%2024%20-%20Influence.mp3" length="33713631" type="audio/mpeg"/>
+      <itunes:title>Influence</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 3rd Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>5 May 2024</p>]]></description>
+      <pubDate>Sun, 05 May 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4204b9c9-ec3b-4cb5-81e2-f29434d9b435</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-05-05-7a27cc/05%20May%2024%20-%20Ten%20Commandments%20-%203rd%20Commandment.mp3" length="30177294" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 3rd Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 2nd Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>28 April 2024</p>]]></description>
+      <pubDate>Sun, 28 Apr 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">649a1d1c-bd42-41da-998a-2e5e5e71a631</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-04-28-057243/28%20Apr%2024%20-%20Ten%20Commandments%20-%202nd%20Commandment.mp3" length="36442188" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 2nd Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Ten Commandments - 1st Commandment</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p><br /></p>
+<p>14 April 2024</p>]]></description>
+      <pubDate>Sun, 21 Apr 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0cd08c3b-95d4-4dc4-9858-94e960141adb</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-04-21-4acbf6/21%20Apr%2024%20-%20Ten%20Commandments%20-%201st%20Commandment.mp3" length="35540868" type="audio/mpeg"/>
+      <itunes:title>Ten Commandments - 1st Commandment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Baptism - Vertical &amp; Horizontal</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>14 April 2024</p>]]></description>
+      <pubDate>Sat, 13 Apr 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0b038391-513f-4ecf-a30a-e5b0202631df</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-04-13-4fe590/13%20Apr%2024%20-%20Baptism%20-%20Vertical%20%26%20Horizontal.mp3" length="29214660" type="audio/mpeg"/>
+      <itunes:title>Baptism - Vertical &amp; Horizontal</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>All Things New - Values</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>7 April 2024</p>]]></description>
+      <pubDate>Sat, 06 Apr 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7de3cbd9-c003-4083-b5ed-a69a61d8bc32</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-04-06-f1416b/06%20Apr%2024%20-%20All%20Things%20New%20-%20Values.mp3" length="36969501" type="audio/mpeg"/>
+      <itunes:title>All Things New - Values</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Easter Sunday 2024</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>31 March 2024</p>]]></description>
+      <pubDate>Sat, 30 Mar 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">41550c8e-76da-4691-8feb-a1f3efb25c8a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-03-30-af6008/30%20Mar%2024%20-%20Easter%20Sunday%202024.mp3" length="18581297" type="audio/mpeg"/>
+      <itunes:title>Easter Sunday 2024</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Cruciform Community - Forgiveness</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>24 March 2024</p>]]></description>
+      <pubDate>Sat, 23 Mar 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">886ac11f-9ae6-4038-8f8f-198fe7848d1a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-03-23-8580bb/23%20Mar%2024%20-%20Cruciform%20Community%20-%20Forgiveness.mp3" length="42120047" type="audio/mpeg"/>
+      <itunes:title>Cruciform Community - Forgiveness</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Cruciform Community - Confrontation</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>17 March 2024</p>]]></description>
+      <pubDate>Sat, 16 Mar 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8b289ea8-3a41-4181-8fc6-026802d4e851</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-03-16-0120aa/16%20Mar%2024%20-%20Cruciform%20Community%20-%20Confrontation.mp3" length="42120035" type="audio/mpeg"/>
+      <itunes:title>Cruciform Community - Confrontation</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Grace seen</title>
+      <description><![CDATA[<p>George Wieland</p>
+<p><br /></p>
+<p>10 March 2024</p>]]></description>
+      <pubDate>Sat, 09 Mar 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f19872d9-1d79-4e29-b4a7-a373d2dbb524</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-03-09-d510a8/09%20Mar%2024%20-%20Grace%20seen.mp3" length="27556970" type="audio/mpeg"/>
+      <itunes:title>Grace seen</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Cruciform Community - Repentance</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>3 March 2024</p>]]></description>
+      <pubDate>Sun, 03 Mar 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0c6cd23e-d5cc-458a-bc6b-1dcba5829d36</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-03-03-1b458c/03%20Mar%2024%20-%20Cruciform%20Community%20-%20Repentance.mp3" length="43907164" type="audio/mpeg"/>
+      <itunes:title>Cruciform Community - Repentance</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Truth &amp; Grace Diaries</title>
+      <description><![CDATA[<p>Jordan Farnum </p>
+<p><br /></p>
+<p>18 February 2024</p>]]></description>
+      <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e679e1be-8fdd-4893-81f7-bb97a32f8fc3</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-02-25-7d1419/25%20Feb%2024%20-%20The%20Truth%20%26%20Grace%20Diaries.mp3" length="30621615" type="audio/mpeg"/>
+      <itunes:title>The Truth &amp; Grace Diaries</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Cruciform Community - Leadership</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>25 February 2024</p>]]></description>
+      <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b61f5a47-ab1a-4994-a67f-e1a93f3b2528</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-02-25-27a3be/25%20Feb%2024%20-%20Cruciform%20Community%20-%20Leadership.mp3" length="33193255" type="audio/mpeg"/>
+      <itunes:title>Cruciform Community - Leadership</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Cruciform Community - Freedom</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p><br /></p>
+<p>11 February 2024</p>]]></description>
+      <pubDate>Sun, 11 Feb 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7aafffea-94d0-4a01-b977-0a1a86bcdfba</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-02-11-431440/11%20Feb%2024%20-%20Cruciform%20Community%20-%20Freedom.mp3" length="37729484" type="audio/mpeg"/>
+      <itunes:title>Cruciform Community - Freedom</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Thinking Matters</title>
+      <description><![CDATA[<p>Rowan Locke </p>
+<p><br /></p>
+<p>4 February 2024</p>]]></description>
+      <pubDate>Sat, 03 Feb 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ddd6fe66-5e6f-4bb7-abdf-fdc5bd794b17</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-02-03-fcfa32/03%20Feb%2024%20-%20Thinking%20Matters.mp3" length="35521750" type="audio/mpeg"/>
+      <itunes:title>Thinking Matters</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series - Intentionally Intergenerational Community</title>
+      <description><![CDATA[<p>Lindsey Bade </p>
+<p><br /></p>
+<p>28 January 2024</p>]]></description>
+      <pubDate>Sun, 28 Jan 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cb1b0966-016a-468d-a87e-618c6bafb203</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-01-28-b4cb7a/28%20Jan%2024%20-%20Summer%20Series%20-%20Intentionally%20Intergenerational%20Community.mp3" length="34179676" type="audio/mpeg"/>
+      <itunes:title>Summer Series - Intentionally Intergenerational Community</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series - Talk with God</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>21 January 2024</p>]]></description>
+      <pubDate>Sat, 20 Jan 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">84955b05-d334-41cd-ba64-1df5f0eb7fb5</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-01-20-de2798/20%20Jan%2024%20-%20Summer%20Series%20-%20Talk%20with%20God.mp3" length="26651274" type="audio/mpeg"/>
+      <itunes:title>Summer Series - Talk with God</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series - Missing God in a Secular Age</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>14 January 2024</p>]]></description>
+      <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d2769f18-4ee0-44fa-872d-2dfc2bdd2c23</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2024-01-13-116685/13%20Jan%2024%20-%20Summer%20Series%20-%20Missing%20God%20in%20a%20Secular%20Age.mp3" length="28640771" type="audio/mpeg"/>
+      <itunes:title>Summer Series - Missing God in a Secular Age</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Christmas Eve</title>
+      <description><![CDATA[<p> Brian Winslade</p>
+<p><br /></p>
+<p>24 December 2023</p>]]></description>
+      <pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">31f13835-7c19-421e-8bcb-7c53e8264ba2</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-12-24-71d3d6/24%20Dec%2023%20-%20Christmas%20Eve.mp3" length="16171533" type="audio/mpeg"/>
+      <itunes:title>Christmas Eve</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Advent - Joy</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>24 December 2023</p>]]></description>
+      <pubDate>Sat, 23 Dec 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">acecf33b-3ff0-456c-85bc-521fa7715350</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-12-23-732b5c/23%20Dec%2023%20-%20Advent%20-%20Joy.mp3" length="16519276" type="audio/mpeg"/>
+      <itunes:title>Advent - Joy</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Advent - Peace</title>
+      <description><![CDATA[<p>Lindsey Bade</p>
+<p><br /></p>
+<p>17 December 2023</p>]]></description>
+      <pubDate>Sat, 16 Dec 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9e3e38e8-2711-463b-89fd-d7d6f5531624</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-12-16-c2cc14/16%20Dec%2023%20-%20Advent%20-%20Peace.mp3" length="32392596" type="audio/mpeg"/>
+      <itunes:title>Advent - Peace</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Advent - Love</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>10 December 2023</p>
+<p>
+
+</p>]]></description>
+      <pubDate>Sat, 09 Dec 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fb201d7a-534f-436b-9cdd-bb9e4fb1fdd2</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-12-09-2ce8a2/09%20Dec%2023%20-%20Advent%20-%20Love.mp3" length="36209438" type="audio/mpeg"/>
+      <itunes:title>Advent - Love</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Home Assignment</title>
+      <description><![CDATA[<p>Nick </p>
+<p><br /></p>
+<p>3 December 2023</p>]]></description>
+      <pubDate>Sat, 02 Dec 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fc3f14d4-1947-4d5d-8921-7959b95b0eb7</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-12-02-1a412a/02%20Dec%2023%20-%20Home%20Assignment.mp3" length="38441073" type="audio/mpeg"/>
+      <itunes:title>Home Assignment</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Advent - Wait</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>26 November 2023</p>]]></description>
+      <pubDate>Sat, 25 Nov 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d76593b5-b408-463f-955f-c3db195b5bb4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-11-25-b4a19e/25%20Nov%2023%20-%20Advent%20-%20Wait.mp3" length="27637731" type="audio/mpeg"/>
+      <itunes:title>Advent - Wait</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Christ is King</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>19 November 2023</p>]]></description>
+      <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fc0211c3-fc7d-486b-bf3a-104fca4ab433</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-11-18-f27b4c/18%20Nov%2023%20-%20Christ%20is%20King.mp3" length="37397840" type="audio/mpeg"/>
+      <itunes:title>Christ is King</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>And They Devoted Themselves</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>12 November 2023</p>]]></description>
+      <pubDate>Sat, 11 Nov 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e90d468f-a4f1-4656-a3ee-2dfea9b94755</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-11-11-b12c7b/11%20Nov%2023%20-%20And%20They%20Devoted%20Themselves.mp3" length="37988301" type="audio/mpeg"/>
+      <itunes:title>And They Devoted Themselves</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>CAP</title>
+      <description><![CDATA[<p>Abel</p>
+<p><br /></p>
+<p>5 November 2023</p>
+<p><br /></p>
+<p><br /></p>]]></description>
+      <pubDate>Sat, 04 Nov 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5c2a97d9-f964-41ee-9d38-b413b52c1dd6</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-11-04-2c0fc0/04%20Nov%2023%20-%20CAP.mp3" length="37487091" type="audio/mpeg"/>
+      <itunes:title>CAP</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - Faith &amp; Prayer</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>29 October 2023</p>
+<p><br /></p>
+<p><em>Please note that we encountered some technical difficulties partway through the sermon</em></p>]]></description>
+      <pubDate>Tue, 31 Oct 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8808af02-3254-4ed7-a8c0-7c48875c9f6b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-10-31-e215a5/31%20Oct%2023%20-%20Matthew%20-%20Faith%20%26%20Prayer.mp3" length="36297977" type="audio/mpeg"/>
+      <itunes:title>Matthew - Faith &amp; Prayer</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - Mountain Top View</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>22 October 2023</p>]]></description>
+      <pubDate>Sat, 21 Oct 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04073367-7ab5-47b5-b9a9-2e96a35fcac6</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-10-21-736ce7/21%20Oct%2023%20-%20Matthew%20-%20Mountain%20Top%20View.mp3" length="32643067" type="audio/mpeg"/>
+      <itunes:title>Matthew - Mountain Top View</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - The Way of the Cross</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>15 October 2023</p>
+<p><br /></p>
+<p><br /></p>]]></description>
+      <pubDate>Sat, 14 Oct 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1203cee2-a22e-46f1-ae71-8193390d8f58</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-10-14-510c34/14%20Oct%2023%20-%20Matthew%20-%20The%20Way%20of%20the%20Cross.mp3" length="42831720" type="audio/mpeg"/>
+      <itunes:title>Matthew - The Way of the Cross</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - Who Do You Say Jesus Is?</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>8 October 2023</p>
+<p><br /></p>]]></description>
+      <pubDate>Sat, 07 Oct 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f2e6ed39-94e0-4f47-8d49-4271bd24fda4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-10-07-39bc70/07%20Oct%2023%20-%20Matthew%20-%20Who%20Do%20You%20Say%20Jesus%20Is.mp3" length="36750937" type="audio/mpeg"/>
+      <itunes:title>Matthew - Who Do You Say Jesus Is?</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - God On Our Team?</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>1 October 2023</p>]]></description>
+      <pubDate>Sat, 30 Sep 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9f6e5ccf-0cf7-4a7c-b4a1-aa6a57241c7c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-09-30-e2c7b3/30%20Sep%2023%20-%20Matthew%20-%20God%20On%20Our%20Team.mp3" length="33807557" type="audio/mpeg"/>
+      <itunes:title>Matthew - God On Our Team?</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>All Things New - Jesus Our Hope</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p><br /></p>
+<p>24 September 2023</p>]]></description>
+      <pubDate>Sat, 23 Sep 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">bfd5092c-0b75-4653-b603-c73634804a41</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-09-23-5a1680/23%20Sep%2023%20-%20All%20Things%20New%20-%20Jesus%20Our%20Hope.mp3" length="35117823" type="audio/mpeg"/>
+      <itunes:title>All Things New - Jesus Our Hope</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>All Things New - Talents</title>
+      <description><![CDATA[<p>Brian Winslade
+</p>
+<p>17 September 2023</p>
+<p>
+
+</p>]]></description>
+      <pubDate>Sat, 16 Sep 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e08e2c7f-25c2-490e-9474-5cc1bf4dc8d8</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-09-16-b29972/16%20Sep%2023%20-%20All%20Things%20New%20-%20Talents.mp3" length="37543722" type="audio/mpeg"/>
+      <itunes:title>All Things New - Talents</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>All Things New - We are The Body</title>
+      <description><![CDATA[<p>Bernie Cowan
+</p>
+<p>10 September 2023</p>]]></description>
+      <pubDate>Sat, 09 Sep 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a922bcd4-5c01-4540-b258-3c0426b7f44d</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-09-09-22d3a0/09%20Sep%2023%20-%20All%20Things%20New%20-%20We%20are%20The%20Body.mp3" length="46098894" type="audio/mpeg"/>
+      <itunes:title>All Things New - We are The Body</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>All Things New - Exiles</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>3 September 2023</p>]]></description>
+      <pubDate>Sat, 02 Sep 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">38c23048-19bf-4fed-9932-3adca7a8144b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-09-02-4e30be/02%20Sep%2023%20-%20All%20Things%20New%20-%20Exiles.mp3" length="41675421" type="audio/mpeg"/>
+      <itunes:title>All Things New - Exiles</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - Bread</title>
+      <description><![CDATA[<p>Lindsey Bade</p>
+<p>August 2023</p>]]></description>
+      <pubDate>Sat, 19 Aug 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8c80939f-c90b-4488-8ccb-aa2b010da268</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-08-19-387eb3/19%20Aug%2023%20-%20Matthew%20-%20Bread.mp3" length="25349281" type="audio/mpeg"/>
+      <itunes:title>Matthew - Bread</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - Breaks</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p>13 August 2023</p>]]></description>
+      <pubDate>Sat, 12 Aug 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fd3a0077-8200-452e-98ed-564961ba206a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-08-12-a0be74/12%20Aug%2023%20-%20Matthew%20-%20Breaks.mp3" length="39710344" type="audio/mpeg"/>
+      <itunes:title>Matthew - Breaks</itunes:title>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - Ruining a Good Thing</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>6 August 2023</p>]]></description>
+      <pubDate>Sat, 05 Aug 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">50f01b2e-1ca9-4608-9289-584c55cd42db</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-08-05-45b618/05%20Aug%2023%20-%20Matthew%20-%20Ruining%20a%20Good%20Thing.mp3" length="38765713" type="audio/mpeg"/>
+      <itunes:title>Matthew - Ruining a Good Thing</itunes:title>
+      <itunes:duration>40:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Matthew - Chaotic Waters</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>30 July 2023</p>]]></description>
+      <pubDate>Sat, 29 Jul 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f22662c8-81bc-439e-a16f-8f985cb826fa</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-07-29-a68d81/29%20Jul%2023%20-%20Matthew%20-%20Chaotic%20Waters.mp3" length="53004874" type="audio/mpeg"/>
+      <itunes:title>Matthew - Chaotic Waters</itunes:title>
+      <itunes:duration>36:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Foundations - Community</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>23 July 2023</p>]]></description>
+      <pubDate>Sat, 22 Jul 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">392a5ffd-af4d-4aed-be63-29f4e417588f</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-07-22-df2c85/22%20Jul%2023%20-%20Foundations%20-%20Community.mp3" length="50559813" type="audio/mpeg"/>
+      <itunes:title>Foundations - Community</itunes:title>
+      <itunes:duration>35:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Foundations - Mission</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>16 July 2023</p>]]></description>
+      <pubDate>Sat, 15 Jul 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8bf3d341-b8eb-42af-b77d-458109bed852</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-07-15-a9aefc/15%20Jul%2023%20-%20Foundations%20-%20Mission.mp3" length="48638245" type="audio/mpeg"/>
+      <itunes:title>Foundations - Mission</itunes:title>
+      <itunes:duration>33:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Foundations - Discipleship</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>9 July 2023</p>]]></description>
+      <pubDate>Sat, 08 Jul 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">412420d2-a84e-4cf1-b19e-d1d6fc6b045b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-07-08-5e07c3/08%20Jul%2023%20-%20Foundations%20-%20Discipleship.mp3" length="51477024" type="audio/mpeg"/>
+      <itunes:title>Foundations - Discipleship</itunes:title>
+      <itunes:duration>35:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Foundations - Worship</title>
+      <description><![CDATA[<p>Colin Gruetzmacher </p>
+<p>2 July 2023</p>]]></description>
+      <pubDate>Sat, 01 Jul 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">eda46dee-758d-4bbe-a9ac-9e91ed20d3bd</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-07-01-e9465e/01%20Jul%2023%20-%20Foundations%20-%20Worship.mp3" length="49260169" type="audio/mpeg"/>
+      <itunes:title>Foundations - Worship</itunes:title>
+      <itunes:duration>34:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Opening Sunday Service</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>25 June 2023</p>]]></description>
+      <pubDate>Sat, 24 Jun 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">44428154-ad01-41d2-8a44-2ba88a1f3ce1</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-06-24-c75a7b/24%20Jun%2023%20-%20Opening%20Sunday%20Service.mp3" length="29876476" type="audio/mpeg"/>
+      <itunes:title>Opening Sunday Service</itunes:title>
+      <itunes:duration>20:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Big Move</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>11 June 2023</p>]]></description>
+      <pubDate>Sat, 10 Jun 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c63f1cee-718b-4806-8875-049ee29ff284</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-06-10-1b92b3/10%20Jun%2023%20-%20The%20Big%20Move.mp3" length="73923313" type="audio/mpeg"/>
+      <itunes:title>The Big Move</itunes:title>
+      <itunes:duration>51:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Tales of the Kingdom - Corrupt Kings</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>4 June 2023</p>]]></description>
+      <pubDate>Sat, 03 Jun 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">04589d65-230b-4630-8af2-6bd38131d38e</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-06-03-036377/03%20Jun%2023%20-%20Tales%20of%20the%20Kingdom%20-%20Corrupt%20Kings.mp3" length="52398624" type="audio/mpeg"/>
+      <itunes:title>Tales of the Kingdom - Corrupt Kings</itunes:title>
+      <itunes:duration>36:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Tales of the Kingdom - Rejection Narrative</title>
+      <description><![CDATA[<p>Rob Stacey</p>
+<p>28 May 2023</p>]]></description>
+      <pubDate>Sat, 27 May 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0a26234d-2a6e-4467-8504-5153dfec01f3</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-05-27-f93eb5/27%20May%2023%20-%20Tales%20of%20the%20Kingdom%20-%20Rejection%20Narrative.mp3" length="54614853" type="audio/mpeg"/>
+      <itunes:title>Tales of the Kingdom - Rejection Narrative</itunes:title>
+      <itunes:duration>37:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Tales of the Kingdom - Treasures and Pearls</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>21 May 2023</p>
+<p><br /></p>
+<ul>
+ <li>There were audio issues so the last part of this sermon was not captured.</li>
+</ul>]]></description>
+      <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">96edfbe6-b25f-4bf8-a0f0-00066fd0fb6c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-05-20-2bd4b9/20%20May%2023%20-%20Tales%20of%20the%20Kingdom%20-%20Treasures%20and%20Pearls.mp3" length="41158239" type="audio/mpeg"/>
+      <itunes:title>Tales of the Kingdom - Treasures and Pearls</itunes:title>
+      <itunes:duration>28:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Tales of the Kingdom - Small, but Alive</title>
+      <description><![CDATA[<p>Lindsey Bade</p>
+<p>14th May 2023</p>]]></description>
+      <pubDate>Sun, 14 May 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8c7552b1-ac87-4fc5-b159-d3f8d81ac366</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-05-14-970e13/14%20May%2023%20-%20Tales%20of%20the%20Kingdom%20-%20Small%2C%20but%20Alive.mp3" length="38310683" type="audio/mpeg"/>
+      <itunes:title>Tales of the Kingdom - Small, but Alive</itunes:title>
+      <itunes:duration>26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Tales of the Kingdom - Wheat, Weeds and Hell</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>30 April 2023</p>]]></description>
+      <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">246ad117-6743-4457-aa11-a27a500706b4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-05-06-9d4a30/06%20May%2023%20-%20Tales%20of%20the%20Kingdom%20-%20Wheat%2C%20Weeds%20and%20Hell.mp3" length="47445598" type="audio/mpeg"/>
+      <itunes:title>Tales of the Kingdom - Wheat, Weeds and Hell</itunes:title>
+      <itunes:duration>39:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - God Is Building Something Here</title>
+      <description><![CDATA[<p>Karl Friend</p>]]></description>
+      <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">73cf051c-3072-47a2-afb0-b9c7a9553f5f</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-05-06-4e9d25/06%20May%2023%20-%20Stand%20Alone%20-%20God%20Is%20Building%20Something%20Here.mp3" length="49765271" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - God Is Building Something Here</itunes:title>
+      <itunes:duration>41:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Tales of the Kingdom - Parable of the Sower</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>23 April 23</p>]]></description>
+      <pubDate>Sun, 23 Apr 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3fd0ed93-ddbc-4346-827d-4d64511eccdf</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-04-23-559d98/23%20Apr%2023%20-%20Tales%20of%20the%20Kingdom%20-%20Parable%20of%20the%20Sower.mp3" length="41085304" type="audio/mpeg"/>
+      <itunes:title>Tales of the Kingdom - Parable of the Sower</itunes:title>
+      <itunes:duration>34:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Tales of the Kingdom - Who are my Brothers? Who are my Sisters?</title>
+      <description><![CDATA[<p>Brian Winslade</p>
+<p>16 April 2023</p>]]></description>
+      <pubDate>Sun, 16 Apr 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f1c4e864-57b9-452f-bbb4-84863d172005</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-04-16-61abb8/16%20Apr%2023%20-%20Tales%20of%20the%20Kingdom%20-%20Who%20are%20my%20Brothers%20Who%20are%20my%20Sisters.mp3" length="49945516" type="audio/mpeg"/>
+      <itunes:title>Tales of the Kingdom - Who are my Brothers? Who are my Sisters?</itunes:title>
+      <itunes:duration>41:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Heart of Sin - Sin as Slavery</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>2nd April 2023</p>]]></description>
+      <pubDate>Sat, 01 Apr 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c42659c2-193c-435a-a9a5-7cfd0d42f8e0</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-04-01-1adc87/01%20Apr%2023%20-%20The%20Heart%20of%20Sin%20-%20Sin%20as%20Slavery.mp3" length="65425157" type="audio/mpeg"/>
+      <itunes:title>The Heart of Sin - Sin as Slavery</itunes:title>
+      <itunes:duration>54:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Heart of Sin - Replacing God as King</title>
+      <description><![CDATA[<p>Graeme Chamberlain</p>
+<p>26 March 2023</p>]]></description>
+      <pubDate>Sun, 26 Mar 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">937eb74a-3e1b-41d1-8001-954986b80b39</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-03-26-a68149/26%20Mar%2023%20-%20The%20Heart%20of%20Sin%20-%20Replacing%20God%20as%20King.mp3" length="39705516" type="audio/mpeg"/>
+      <itunes:title>The Heart of Sin - Replacing God as King</itunes:title>
+      <itunes:duration>33:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Heart of Sin - Selfish Sin</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>19 March</p>]]></description>
+      <pubDate>Sat, 18 Mar 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c8a6aff2-7519-42bc-9e45-49629f9be92c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-03-18-d4ac45/18%20Mar%2023%20-%20The%20Heart%20of%20Sin%20-%20Selfish%20Sin.mp3" length="55513255" type="audio/mpeg"/>
+      <itunes:title>The Heart of Sin - Selfish Sin</itunes:title>
+      <itunes:duration>46:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Heart of Sin - Sin Never Left</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+12 March 2023</p>]]></description>
+      <pubDate>Sat, 11 Mar 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a06b3efb-57b9-4845-b065-5cca22a9c697</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-03-11-e95081/11%20Mar%2023%20-%20The%20Heart%20of%20Sin%20-%20Sin%20Never%20Left.mp3" length="62732455" type="audio/mpeg"/>
+      <itunes:title>The Heart of Sin - Sin Never Left</itunes:title>
+      <itunes:duration>52:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Choose The Good Yoke - Making Your Own God</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+5 March 2023</p>]]></description>
+      <pubDate>Sun, 05 Mar 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ee98e0c0-a957-482f-91eb-85539ef55c1c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-03-05-c761b1/05%20Mar%2023%20-%20Choose%20The%20Good%20Yoke%20-%20Making%20Your%20Own%20God.mp3" length="42771769" type="audio/mpeg"/>
+      <itunes:title>Choose The Good Yoke - Making Your Own God</itunes:title>
+      <itunes:duration>35:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Choose The Good Yoke - The Unforgiveable Sin</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+26 February 2023</p>]]></description>
+      <pubDate>Sun, 26 Feb 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ae4b915b-db5d-42e5-af67-3b972bca8061</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-02-26-766875/26%20Feb%2023%20-%20Choose%20The%20Good%20Yoke%20-%20The%20Unforgiveable%20Sin.mp3" length="52688373" type="audio/mpeg"/>
+      <itunes:title>Choose The Good Yoke - The Unforgiveable Sin</itunes:title>
+      <itunes:duration>43:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Choose the Good Yoke - Getting back to the "Why"</title>
+      <description><![CDATA[<p>Bernie Cowan<br />
+19 February 2023</p>
+<p><br /></p>
+<p>Apologies for the poor audio at the end of this message - ran into a technical issue that was unresolvable.</p>]]></description>
+      <pubDate>Sun, 19 Feb 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">eb0d0c7a-b833-44e9-9384-8531c3ae9d2b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-02-19-3961b7/19%20Feb%2023%20-%20Choose%20the%20Good%20Yoke%20-%20Getting%20back%20to%20the%20Why.mp3" length="51805434" type="audio/mpeg"/>
+      <itunes:title>Choose the Good Yoke - Getting back to the "Why"</itunes:title>
+      <itunes:duration>43:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Choose The Good Yoke - On His Terms</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+12 Feb 2023</p>]]></description>
+      <pubDate>Sat, 11 Feb 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4d9275f7-11fa-451c-ae4e-21dd530ad552</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-02-11-166160/11%20Feb%2023%20-%20Choose%20The%20Good%20Yoke%20-%20On%20His%20Terms.mp3" length="51385385" type="audio/mpeg"/>
+      <itunes:title>Choose The Good Yoke - On His Terms</itunes:title>
+      <itunes:duration>42:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Choose the Good Yoke - From Behind Bars</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+5 Feb 2023</p>]]></description>
+      <pubDate>Sun, 05 Feb 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">88dee8d6-d7d5-43c1-8d28-b79e1cfd9ad0</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-02-05-2d8af1/05%20Feb%2023%20-%20Choose%20the%20Good%20Yoke%20-%20From%20Behind%20Bars.mp3" length="37805369" type="audio/mpeg"/>
+      <itunes:title>Choose the Good Yoke - From Behind Bars</itunes:title>
+      <itunes:duration>31:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series '23 - Exiles in Babylon</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>29 January 2023</p>]]></description>
+      <pubDate>Sun, 29 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4492c84a-7443-4b4e-a3d1-46539577872c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-29-3a58a7/29%20Jan%2023%20-%20Summer%20Series%20%2723%20-%20Exiles%20in%20Babylon.mp3" length="36885336" type="audio/mpeg"/>
+      <itunes:title>Summer Series '23 - Exiles in Babylon</itunes:title>
+      <itunes:duration>30:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series '23 - Grounded Identity</title>
+      <description><![CDATA[<p>Chriselle Lees-Thomas</p>
+<p>22 January 2023</p>]]></description>
+      <pubDate>Sat, 21 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3fed633f-1cd9-462f-8b9d-9d3e3d79f141</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-21-4fd519/21%20Jan%2023%20-%20Summer%20Series%20%2723%20-%20Grounded%20Identity.mp3" length="28765434" type="audio/mpeg"/>
+      <itunes:title>Summer Series '23 - Grounded Identity</itunes:title>
+      <itunes:duration>23:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Summer Series '23 - Lift Your Eyes Up</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>15 January 2023</p>]]></description>
+      <pubDate>Sat, 14 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c855c5a3-5e78-48cb-ac1e-ee60db2326ba</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-14-b1e4d8/14%20Jan%2023%20-%20Summer%20Series%20%2723%20-%20Lift%20Your%20Eyes%20Up.mp3" length="31180194" type="audio/mpeg"/>
+      <itunes:title>Summer Series '23 - Lift Your Eyes Up</itunes:title>
+      <itunes:duration>25:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - First Cycle - Chp 4: Who's Really In Charge?</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>30 June 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">59b295a0-860b-4474-9e37-e95e3f99e8e6</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-03a255/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20First%20Cycle%20-%20Chp%204%20Who%27s%20Really%20In%20Charge.mp3" length="65550683" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - First Cycle - Chp 4: Who's Really In Charge?</itunes:title>
+      <itunes:duration>45:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - First Cycle - Chp 5: The Lamb</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>13 July 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4994ade4-4b13-4109-8510-3d7ef238e54e</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-96ef98/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20First%20Cycle%20-%20Chp%205%20The%20Lamb.mp3" length="51023136" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - First Cycle - Chp 5: The Lamb</itunes:title>
+      <itunes:duration>35:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - First Cycle - Chp 6: Horses, Martyrs and Empire</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>21 July 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4c2f1f60-47a6-471b-b1da-3a02303c3cf5</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-7f16fc/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20First%20Cycle%20-%20Chp%206%20Horses%2C%20Martyrs%20and%20Empire.mp3" length="66728633" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - First Cycle - Chp 6: Horses, Martyrs and Empire</itunes:title>
+      <itunes:duration>46:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - First Cycle - Chp 7: There Is Room For You Here</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>21 July 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9b074168-d4bc-4fe9-ad00-c752b1907e54</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-a7e845/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20First%20Cycle%20-%20Chp%207%20There%20Is%20Room%20For%20You%20Here.mp3" length="53843424" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - First Cycle - Chp 7: There Is Room For You Here</itunes:title>
+      <itunes:duration>37:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - First Cycle - Chp 8/9: Is Jesus Just Another Zeus?</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>4 August 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">48474d39-3b6b-4c07-a5f5-0adb3d364cc2</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-81bf96/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20First%20Cycle%20-%20Chp%2089%20Is%20Jesus%20Just%20Another%20Zeus.mp3" length="55488931" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - First Cycle - Chp 8/9: Is Jesus Just Another Zeus?</itunes:title>
+      <itunes:duration>38:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - First Cycle - Chp 10: Sweet And Sour</title>
+      <description><![CDATA[<p>Karl Friend</p>
+<p>11 August 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">67b1ca61-d42b-4307-99f2-0f12425ef2b5</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-32aaff/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20First%20Cycle%20-%20Chp%2010%20Sweet%20And%20Sour.mp3" length="47747242" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - First Cycle - Chp 10: Sweet And Sour</itunes:title>
+      <itunes:duration>33:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - First Cycle - Chp 11: The Final Trumpet</title>
+      <description><![CDATA[<p>Monica Carey</p>
+<p>18 Aug 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e0dfc2b3-dc5a-488e-96e6-66b50297f4a9</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-d73def/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20First%20Cycle%20-%20Chp%2011%20The%20Final%20Trumpet.mp3" length="58588420" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - First Cycle - Chp 11: The Final Trumpet</itunes:title>
+      <itunes:duration>40:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Second Cycle - Chp12: The Woman, The Dragon and The Gospel</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>25th August 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2cc8d025-e547-4594-b6ab-5f11fbea38bf</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-5c8d0e/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Second%20Cycle%20-%20Chp12%20The%20Woman%2C%20The%20Dragon%20and%20The%20Gospel.mp3" length="68224867" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Second Cycle - Chp12: The Woman, The Dragon and The Gospel</itunes:title>
+      <itunes:duration>47:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Second Cycle - Chp 13: Beasts, 666 and Empires Then and Now</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>1 September 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f42d816c-6325-4bf6-97d9-cff06c78610b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-eb3606/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Second%20Cycle%20-%20Chp%2013%20Beasts%2C%20666%20and%20Empires%20Then%20and%20Now.mp3" length="69296115" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Second Cycle - Chp 13: Beasts, 666 and Empires Then and Now</itunes:title>
+      <itunes:duration>48:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Second Cycle - Chp 14: A Tale of Two Kingdoms</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>8 September 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b8d3c71d-6f44-4538-aead-31442b06628b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-d75a8e/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Second%20Cycle%20-%20Chp%2014%20A%20Tale%20of%20Two%20Kingdoms.mp3" length="64726154" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Second Cycle - Chp 14: A Tale of Two Kingdoms</itunes:title>
+      <itunes:duration>44:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Second Cycle - Chp 15: A Song Of The Kingdom</title>
+      <description><![CDATA[<p>Brooke Friend</p>
+<p>15 Sept 2019</p>
+<p><br /></p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">80ed435d-34c6-49f2-94b9-22a501d4057d</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-a5160b/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Second%20Cycle%20-%20Chp%2015%20A%20Song%20Of%20The%20Kingdom.mp3" length="53805246" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Second Cycle - Chp 15: A Song Of The Kingdom</itunes:title>
+      <itunes:duration>37:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Second Cycle - Chp 16: A New Exodus</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>22 September 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b5295cfd-8217-4350-945d-3294d73ce4d4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-b3de6e/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Second%20Cycle%20-%20Chp%2016%20A%20New%20Exodus.mp3" length="55271231" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Second Cycle - Chp 16: A New Exodus</itunes:title>
+      <itunes:duration>38:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Second Cycle - Chp 17: McDonalds in Babylon</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>29 Sept 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7d6a5af9-2e74-46e5-8df3-1d74ee792a62</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-ab8a4d/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Second%20Cycle%20-%20Chp%2017%20McDonalds%20in%20Babylon.mp3" length="54658115" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Second Cycle - Chp 17: McDonalds in Babylon</itunes:title>
+      <itunes:duration>37:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Second Cycle - Chp 18: Leaving Babylon</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>Recorded at Bethlehem Baptist Church Night Service</p>
+<p><br /></p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ba96283c-1dfd-4f03-aa24-c569c688b174</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-125755/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Second%20Cycle%20-%20Chp%2018%20Leaving%20Babylon.mp3" length="83390284" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Second Cycle - Chp 18: Leaving Babylon</itunes:title>
+      <itunes:duration>1:09:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Renewal of All - Chp 19: Weddings and Wars</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>20 Oct 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d2da065c-0e94-4828-9e56-fd934358620c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-c9bb89/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Renewal%20of%20All%20-%20Chp%2019%20Weddings%20and%20Wars.mp3" length="52859991" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Renewal of All - Chp 19: Weddings and Wars</itunes:title>
+      <itunes:duration>36:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Renewal of All - Chp 20 Pt 1: Millenium, God's Yes and God's No</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>27 Oct 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2fc78cce-172b-4ea4-a85a-89e5f8c4bae7</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-2084fb/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Renewal%20of%20All%20-%20Chp%2020%20Pt%201%20Millenium%2C%20God%27s%20Yes%20and%20God%27s%20No.mp3" length="49912960" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Renewal of All - Chp 20 Pt 1: Millenium, God's Yes and God's No</itunes:title>
+      <itunes:duration>34:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Renewal of All - Chp 20 Pt 2: Hell and Justice</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>3 November 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4e578f60-68e6-4954-8e38-2f76e8448b16</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-6897eb/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Renewal%20of%20All%20-%20Chp%2020%20Pt%202%20Hell%20and%20Justice.mp3" length="49591636" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Renewal of All - Chp 20 Pt 2: Hell and Justice</itunes:title>
+      <itunes:duration>34:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Renewal of All - Chp 21 Pt 1: All Things New</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>17 November 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e2e2d660-bcbd-486e-90b2-3088e62a3a27</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-1583ee/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Renewal%20of%20All%20-%20Chp%2021%20Pt%201%20All%20Things%20New.mp3" length="59536668" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Renewal of All - Chp 21 Pt 1: All Things New</itunes:title>
+      <itunes:duration>41:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Renewal of All - Chp 21 Pt 2: Heaven as Resistance</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>24 November 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">5ac61107-b642-44af-b1a0-4fe18092e98f</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-331721/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Renewal%20of%20All%20-%20Chp%2021%20Pt%202%20Heaven%20as%20Resistance.mp3" length="65942871" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Renewal of All - Chp 21 Pt 2: Heaven as Resistance</itunes:title>
+      <itunes:duration>45:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - Renewal of All - Chp 22: The Conclusion</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>8 December 2019</p>]]></description>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ee7476dd-ee3d-4bba-bd11-a3d5e47f24ca</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-11-5190a3/11%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%20Renewal%20of%20All%20-%20Chp%2022%20The%20Conclusion.mp3" length="57519030" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - Renewal of All - Chp 22: The Conclusion</itunes:title>
+      <itunes:duration>39:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - It's All About Jesus</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>28 April 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c7a8fba1-c874-4c02-ab2f-27b477ba111c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-e3c3f5/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20It%27s%20All%20About%20Jesus.mp3" length="48741361" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - It's All About Jesus</itunes:title>
+      <itunes:duration>33:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - Ephesus: Truth Vs Love</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>5 May 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fa532256-0912-47cb-92a5-c5c005c9dffb</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-61e97c/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20Ephesus%20Truth%20Vs%20Love.mp3" length="45607290" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - Ephesus: Truth Vs Love</itunes:title>
+      <itunes:duration>31:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - Smyrna: It's Not About Us</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>12 May 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c6cf2929-39ad-4c81-99bd-810597519c0a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-5fee54/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20Smyrna%20It%27s%20Not%20About%20Us.mp3" length="51525868" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - Smyrna: It's Not About Us</itunes:title>
+      <itunes:duration>35:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - Pergamum</title>
+      <description><![CDATA[<p>Craig Vernall</p>
+<p>19 May 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">995beef0-c77a-45c0-960a-5d1ece924422</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-b39f19/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20Pergamum.mp3" length="66316291" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - Pergamum</itunes:title>
+      <itunes:duration>45:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - Thyatira: Faithfulness and Justice</title>
+      <description><![CDATA[<p>Brooke Friend</p>
+<p>2 June 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2892f48b-9836-4390-95ff-cf2110c04368</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-aed68e/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20Thyatira%20Faithfulness%20and%20Justice.mp3" length="54667468" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - Thyatira: Faithfulness and Justice</itunes:title>
+      <itunes:duration>37:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - Sardis: Wake Up</title>
+      <description><![CDATA[<p>Nick LaSpina</p>
+<p>9 June 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1a0e84c5-a5e8-4362-a4fa-fc02026eb060</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-0ac768/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20Sardis%20Wake%20Up.mp3" length="49883497" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - Sardis: Wake Up</itunes:title>
+      <itunes:duration>34:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - Philadelphia: Finding Belonging</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>16 June 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a134f2cd-dd76-4a63-ab42-b1302e0b96c4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-8f218a/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20Philadelphia%20Finding%20Belonging.mp3" length="64449970" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - Philadelphia: Finding Belonging</itunes:title>
+      <itunes:duration>44:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>The Fifth Gospel - 7 Letters - Laodicea: Beyond Sameness</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>23 June 2019</p>]]></description>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c4f063b8-e33d-4841-a6a4-72ef34e659f1</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2023-01-10-c50d2d/10%20Jan%2023%20-%20The%20Fifth%20Gospel%20-%207%20Letters%20-%20Laodicea%20Beyond%20Sameness.mp3" length="64306874" type="audio/mpeg"/>
+      <itunes:title>The Fifth Gospel - 7 Letters - Laodicea: Beyond Sameness</itunes:title>
+      <itunes:duration>44:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Advent - Peace Comes In The Small Places</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+11 December 2022</p>]]></description>
+      <pubDate>Sat, 10 Dec 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ad98855a-ba16-4113-9b19-9e6a8e1f6c2b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-12-10-096a4f/10%20Dec%2022%20-%20Advent%20-%20Peace%20Comes%20In%20The%20Small%20Places.mp3" length="35553614" type="audio/mpeg"/>
+      <itunes:title>Advent - Peace Comes In The Small Places</itunes:title>
+      <itunes:duration>29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Advent - Courageous Joy</title>
+      <description><![CDATA[<p>Bernie Cowan<br />
+4 December 2022</p>]]></description>
+      <pubDate>Sat, 03 Dec 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">91ed4b14-8cb3-464a-9f7d-0a168e7ee1ae</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-12-03-4e7fec/03%20Dec%2022%20-%20Advent%20-%20Courageous%20Joy.mp3" length="36735394" type="audio/mpeg"/>
+      <itunes:title>Advent - Courageous Joy</itunes:title>
+      <itunes:duration>30:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - All Things New: God's Work, Following Him</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+27 November 2022</p>]]></description>
+      <pubDate>Sat, 26 Nov 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3cee20b7-6d83-4a2c-970f-5b417fc9938a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-11-26-504eb6/26%20Nov%2022%20-%20Stand%20Alone%20-%20All%20Things%20New%20God%27s%20Work%2C%20Following%20Him.mp3" length="47485304" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - All Things New: God's Work, Following Him</itunes:title>
+      <itunes:duration>39:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>At All Costs - What To Do When Jesus Gets Salty</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+20 November 2022</p>]]></description>
+      <pubDate>Sat, 19 Nov 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3c0c1d72-3ebe-46a7-b207-36a99fa93124</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-11-19-b27099/19%20Nov%2022%20-%20At%20All%20Costs%20-%20What%20To%20Do%20When%20Jesus%20Gets%20Salty.mp3" length="46155149" type="audio/mpeg"/>
+      <itunes:title>At All Costs - What To Do When Jesus Gets Salty</itunes:title>
+      <itunes:duration>38:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>At All Costs - Jesus' Reality</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+13 November 2022</p>]]></description>
+      <pubDate>Sat, 12 Nov 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">0b5cb322-5c29-4304-9be1-83c8fea09bea</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-11-12-2da40f/12%20Nov%2022%20-%20At%20All%20Costs%20-%20Jesus%27%20Reality.mp3" length="34358773" type="audio/mpeg"/>
+      <itunes:title>At All Costs - Jesus' Reality</itunes:title>
+      <itunes:duration>28:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - Our Gifts for Your Glory</title>
+      <description><![CDATA[<p><br />
+Brian Winslade<br />
+30th October 2022</p>]]></description>
+      <pubDate>Sat, 29 Oct 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8956c1b2-7cc8-4355-baed-ef8453bd9b66</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-10-29-69d3a3/29%20Oct%2022%20-%20Stand%20Alone%20-%20Our%20Gifts%20for%20Your%20Glory.mp3" length="45996847" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - Our Gifts for Your Glory</itunes:title>
+      <itunes:duration>38:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>At All Costs - Persecution is Assumed</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+23 October 2022</p>]]></description>
+      <pubDate>Sat, 22 Oct 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">28df33c8-c944-451b-90a9-f0640aa6f77f</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-10-22-45e503/22%20Oct%2022%20-%20At%20All%20Costs%20-%20Persecution%20is%20Assumed.mp3" length="45439916" type="audio/mpeg"/>
+      <itunes:title>At All Costs - Persecution is Assumed</itunes:title>
+      <itunes:duration>37:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>At All Costs - Where Are You Called To Go?</title>
+      <description><![CDATA[<p>Emma Wells<br />
+16 October 2022</p>]]></description>
+      <pubDate>Sat, 15 Oct 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cb2f1b81-256a-4d1d-a9ba-6c8847004da7</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-10-15-1204db/15%20Oct%2022%20-%20At%20All%20Costs%20-%20Where%20Are%20You%20Called%20To%20Go.mp3" length="38377973" type="audio/mpeg"/>
+      <itunes:title>At All Costs - Where Are You Called To Go?</itunes:title>
+      <itunes:duration>31:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>At All Costs - God Uses Broken People Like Us</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+9 October 2022</p>]]></description>
+      <pubDate>Sat, 08 Oct 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">628713c8-0203-4970-a26b-e0af654a46c5</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-10-08-361b87/08%20Oct%2022%20-%20At%20All%20Costs%20-%20God%20Uses%20Broken%20People%20Like%20Us.mp3" length="39205532" type="audio/mpeg"/>
+      <itunes:title>At All Costs - God Uses Broken People Like Us</itunes:title>
+      <itunes:duration>32:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Guiding Lights - A Community of Vulnerability in a Culture of Performance</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+2 October 2022</p>]]></description>
+      <pubDate>Sat, 01 Oct 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fb911cae-d166-4617-8afe-f7a8ee98d8c0</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-10-01-e9fc5c/01%20Oct%2022%20-%20Guiding%20Lights%20-%20A%20Community%20of%20Vulnerability%20in%20a%20Culture%20of%20Performance.mp3" length="47705255" type="audio/mpeg"/>
+      <itunes:title>Guiding Lights - A Community of Vulnerability in a Culture of Performance</itunes:title>
+      <itunes:duration>39:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Guiding Lights - A Community of Difference in a Culture of Polarisation</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+18 September 2022</p>]]></description>
+      <pubDate>Sat, 17 Sep 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1f3508ec-e349-4425-8869-b452ee533fcb</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-09-17-9ff9d9/17%20Sep%2022%20-%20Guiding%20Lights%20-%20A%20Community%20of%20Difference%20in%20a%20Culture%20of%20Polarisation.mp3" length="52045238" type="audio/mpeg"/>
+      <itunes:title>Guiding Lights - A Community of Difference in a Culture of Polarisation</itunes:title>
+      <itunes:duration>43:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Guiding Lights - A Community of Peace in a Culture of Hurry</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+11 September 2022</p>]]></description>
+      <pubDate>Sat, 10 Sep 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fd90c58f-0660-46b9-9acb-f26721e8f111</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-09-10-8d9b48/10%20Sep%2022%20-%20Guiding%20Lights%20-%20A%20Community%20of%20Peace%20in%20a%20Culture%20of%20Hurry.mp3" length="48385483" type="audio/mpeg"/>
+      <itunes:title>Guiding Lights - A Community of Peace in a Culture of Hurry</itunes:title>
+      <itunes:duration>40:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Guiding Lights - A Community of Exiles in a Culture of Comfort</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+4 September 2022</p>]]></description>
+      <pubDate>Sat, 03 Sep 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">22efac85-0bd7-489d-afbd-f78afd438869</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-09-03-f47205/03%20Sep%2022%20-%20Guiding%20Lights%20-%20A%20Community%20of%20Exiles%20in%20a%20Culture%20of%20Comfort.mp3" length="47960732" type="audio/mpeg"/>
+      <itunes:title>Guiding Lights - A Community of Exiles in a Culture of Comfort</itunes:title>
+      <itunes:duration>39:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone: God With Us - A Community of Encounters</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+28 August 2022</p>]]></description>
+      <pubDate>Sun, 28 Aug 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d49ea844-114e-47eb-86ec-f610328082df</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-08-28-8ef166/28%20Aug%2022%20-%20Stand%20Alone%20God%20With%20Us%20-%20A%20Community%20of%20Encounters.mp3" length="49805500" type="audio/mpeg"/>
+      <itunes:title>Stand Alone: God With Us - A Community of Encounters</itunes:title>
+      <itunes:duration>41:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Deep Wells - A Transformed Identity</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+21 August 2022</p>]]></description>
+      <pubDate>Sat, 20 Aug 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dce71642-b533-40c4-ad50-559fcdde9bda</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-08-20-c863da/20%20Aug%2022%20-%20Deep%20Wells%20-%20A%20Transformed%20Identity.mp3" length="57261891" type="audio/mpeg"/>
+      <itunes:title>Deep Wells - A Transformed Identity</itunes:title>
+      <itunes:duration>47:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Deep Wells - Rhythm That Transforms Us</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+14 Aug 2022</p>]]></description>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">3d94c311-c047-4325-b83c-878d24d59664</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-08-13-26872b/13%20Aug%2022%20-%20Deep%20Wells%20-%20Rhythm%20That%20Transforms%20Us.mp3" length="55205532" type="audio/mpeg"/>
+      <itunes:title>Deep Wells - Rhythm That Transforms Us</itunes:title>
+      <itunes:duration>46:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Deep Wells - Risk As Rebellion</title>
+      <description><![CDATA[<p>Bernie Cowan<br />
+7th August 2022</p>]]></description>
+      <pubDate>Sat, 06 Aug 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2ec992bf-5a85-424c-9f6c-66853d56a015</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-08-06-463955/06%20Aug%2022%20-%20Deep%20Wells%20-%20Risk%20As%20Rebellion.mp3" length="41695524" type="audio/mpeg"/>
+      <itunes:title>Deep Wells - Risk As Rebellion</itunes:title>
+      <itunes:duration>34:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone: What Do You Want To Be Remembered For?</title>
+      <description><![CDATA[<p>Brian Winslade<br />
+31 July 2022</p>]]></description>
+      <pubDate>Sat, 30 Jul 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">664d523e-5a3a-45ca-9c24-41d945429307</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-07-30-73513d/30%20Jul%2022%20-%20Stand%20Alone%20What%20Do%20You%20Want%20To%20Be%20Remembered%20For.mp3" length="46645206" type="audio/mpeg"/>
+      <itunes:title>Stand Alone: What Do You Want To Be Remembered For?</itunes:title>
+      <itunes:duration>38:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Deep Wells - A Spirituality of Struggle</title>
+      <description><![CDATA[<p>Bernie Cowan<br />
+24 July 2022</p>]]></description>
+      <pubDate>Sat, 23 Jul 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">85bebd49-4083-49a0-b193-2ecb4c79b4b8</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-07-23-0ef6f2/23%20Jul%2022%20-%20Deep%20Wells%20-%20A%20Spirituality%20of%20Struggle.mp3" length="47458136" type="audio/mpeg"/>
+      <itunes:title>Deep Wells - A Spirituality of Struggle</itunes:title>
+      <itunes:duration>39:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - God At Work When We Gather</title>
+      <description><![CDATA[<p>Carl Tinion<br />
+17 July 2022</p>]]></description>
+      <pubDate>Sat, 16 Jul 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4ccba65f-2787-4a68-b672-1ff11c71cf51</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-07-16-7458ec/16%20Jul%2022%20-%20Stand%20Alone%20-%20God%20At%20Work%20When%20We%20Gather.mp3" length="44805140" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - God At Work When We Gather</itunes:title>
+      <itunes:duration>37:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Deep Wells - Belonging</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+10 July 2022</p>]]></description>
+      <pubDate>Sat, 09 Jul 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">85e22af1-cf1e-4a45-8f28-b79e79b39644</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-07-09-2de085/09%20Jul%2022%20-%20Deep%20Wells%20-%20Belonging.mp3" length="46105516" type="audio/mpeg"/>
+      <itunes:title>Deep Wells - Belonging</itunes:title>
+      <itunes:duration>38:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Deep Wells - Martyrs &amp; Witness</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+3rd July 2022</p>]]></description>
+      <pubDate>Sat, 02 Jul 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c272f79a-22b2-4fa1-8075-e33c8d57e625</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-07-02-943587/02%20Jul%2022%20-%20Deep%20Wells%20-%20Martyrs%20%26%20Witness.mp3" length="44156259" type="audio/mpeg"/>
+      <itunes:title>Deep Wells - Martyrs &amp; Witness</itunes:title>
+      <itunes:duration>36:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - Strong &amp; Courageous</title>
+      <description><![CDATA[<p>Peter Foster<br />
+26 June 2022</p>]]></description>
+      <pubDate>Sat, 25 Jun 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">095a6b2d-26b6-4834-a76c-2e80f11bef38</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-06-25-a75b50/25%20Jun%2022%20-%20Stand%20Alone%20-%20Strong%20%26%20Courageous.mp3" length="45259671" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - Strong &amp; Courageous</itunes:title>
+      <itunes:duration>37:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Jesus, As We Draw Near He Refines Us</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+19 June 2022</p>]]></description>
+      <pubDate>Sun, 19 Jun 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d5ea8763-92c6-471d-831c-180785673c47</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-06-19-a4f2e9/19%20Jun%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Jesus%2C%20As%20We%20Draw%20Near%20He%20Refines%20Us.mp3" length="46760144" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Jesus, As We Draw Near He Refines Us</itunes:title>
+      <itunes:duration>38:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Jesus, Raising us to Resurrection Life</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+12 June 2022</p>]]></description>
+      <pubDate>Sun, 12 Jun 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f2146258-0f38-47a6-a6bf-fa4b0c6ab1e6</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-06-12-39a48a/12%20Jun%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Jesus%2C%20Raising%20us%20to%20Resurrection%20Life.mp3" length="60858430" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Jesus, Raising us to Resurrection Life</itunes:title>
+      <itunes:duration>50:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Jesus, the Center of Our Community</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+5 June 2022</p>]]></description>
+      <pubDate>Sun, 05 Jun 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">984d767f-a21c-49eb-bd1a-cc279025c097</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-06-05-a40040/05%20Jun%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Jesus%2C%20the%20Center%20of%20Our%20Community.mp3" length="51098038" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Jesus, the Center of Our Community</itunes:title>
+      <itunes:duration>42:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Jesus, Authority Like No Other</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+29 May 2022</p>]]></description>
+      <pubDate>Sat, 28 May 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">20cd2aa3-f2af-40ac-8828-07592fe3b824</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-05-28-350a52/28%20May%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Jesus%2C%20Authority%20Like%20No%20Other.mp3" length="44085206" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Jesus, Authority Like No Other</itunes:title>
+      <itunes:duration>36:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Jesus, Lord Over All</title>
+      <description><![CDATA[<p>Brooke Friend</p>
+<p>22 May 2022</p>]]></description>
+      <pubDate>Sat, 21 May 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b6056a41-2a89-44f0-bac8-5c077fa14193</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-05-21-df9b13/21%20May%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Jesus%2C%20Lord%20Over%20All.mp3" length="34437141" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Jesus, Lord Over All</itunes:title>
+      <itunes:duration>28:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Jesus, Behold Him in the Storm and in the Normal</title>
+      <description><![CDATA[<p>Peter Foster<br />
+15 May 2022</p>]]></description>
+      <pubDate>Sat, 14 May 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c3b9c93b-54a3-4607-8660-d9a02a987ab7</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-05-14-0e43c7/14%20May%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Jesus%2C%20Behold%20Him%20in%20the%20Storm%20and%20in%20the%20Normal.mp3" length="45880863" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Jesus, Behold Him in the Storm and in the Normal</itunes:title>
+      <itunes:duration>38:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Transformational Discipleship Goes Deep</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+8 May 2022</p>]]></description>
+      <pubDate>Sat, 07 May 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">382024bc-6c93-459c-bb8b-2023cbed7114</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-05-07-7c3c2d/07%20May%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Transformational%20Discipleship%20Goes%20Deep.mp3" length="38680471" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Transformational Discipleship Goes Deep</itunes:title>
+      <itunes:duration>32:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Take Heart, Follow Me - Jesus, The Wall-Breaker</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+1 May 2022</p>]]></description>
+      <pubDate>Sat, 30 Apr 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b17c58cb-5084-4433-9485-a2ce90890b69</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-04-30-9a4815/30%20Apr%2022%20-%20Take%20Heart%2C%20Follow%20Me%20-%20Jesus%2C%20The%20Wall-Breaker.mp3" length="78585647" type="audio/mpeg"/>
+      <itunes:title>Take Heart, Follow Me - Jesus, The Wall-Breaker</itunes:title>
+      <itunes:duration>32:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - Re-imagining Church and Mission for a New Season</title>
+      <description><![CDATA[<p>Dr George Wieland</p>
+<p>24 April 2022</p>]]></description>
+      <pubDate>Sun, 24 Apr 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a31c4af9-4e25-49d0-9446-9505412ccfed</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-04-24-90437b/24%20Apr%2022%20-%20Stand%20Alone%20-%20Re-imagining%20Church%20and%20Mission%20for%20a%20New%20Season.mp3" length="90640634" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - Re-imagining Church and Mission for a New Season</itunes:title>
+      <itunes:duration>37:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Easter - Life Beyond The Horizon</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>17 April 2022</p>]]></description>
+      <pubDate>Sun, 17 Apr 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">501fc9e4-db0d-4b82-9ba6-2daa364628ef</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-04-17-19f5e9/17%20Apr%2022%20-%20Easter%20-%20Life%20Beyond%20The%20Horizon.mp3" length="45040036" type="audio/mpeg"/>
+      <itunes:title>Easter - Life Beyond The Horizon</itunes:title>
+      <itunes:duration>23:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Easter - A Unique Procession</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>10 April 22</p>]]></description>
+      <pubDate>Sun, 10 Apr 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e5a1c66e-aeb5-4d6d-ba59-435968f66758</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-04-10-a6b3df/10%20Apr%2022%20-%20Easter%20-%20A%20Unique%20Procession.mp3" length="59306655" type="audio/mpeg"/>
+      <itunes:title>Easter - A Unique Procession</itunes:title>
+      <itunes:duration>30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - The Best Book To Read Is The Bible</title>
+      <description><![CDATA[<p>Arthur Warner<br />
+3 April 2022</p>]]></description>
+      <pubDate>Sun, 03 Apr 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b7b83594-bfa9-4cfe-95fa-b71bde13ee58</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-04-03-031142/03%20Apr%2022%20-%20Stand%20Alone%20-%20The%20Best%20Book%20To%20Read%20Is%20The%20Bible.mp3" length="112807099" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - The Best Book To Read Is The Bible</itunes:title>
+      <itunes:duration>47:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Stand Alone - The Saviour That Makes All Things New</title>
+      <description><![CDATA[<p>Dr John Tucker<br />
+27 March 2022</p>]]></description>
+      <pubDate>Sun, 27 Mar 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">df60d8ab-60e3-4ca7-9e34-83ed7d28f0e8</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-03-27-aa5178/27%20Mar%2022%20-%20Stand%20Alone%20-%20The%20Saviour%20That%20Makes%20All%20Things%20New.mp3" length="40427018" type="audio/mpeg"/>
+      <itunes:title>Stand Alone - The Saviour That Makes All Things New</itunes:title>
+      <itunes:duration>16:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Finding Time - Connecting With Others</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+20 March 2022</p>]]></description>
+      <pubDate>Sun, 20 Mar 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">221ee506-c134-420a-b4d6-3960e12aba8a</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-03-20-19468f/20%20Mar%2022%20-%20Finding%20Time%20-%20Connecting%20With%20Others.mp3" length="105482365" type="audio/mpeg"/>
+      <itunes:title>Finding Time - Connecting With Others</itunes:title>
+      <itunes:duration>43:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Finding Time - Reclaiming Sabbath</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+13 March 2022</p>]]></description>
+      <pubDate>Sun, 13 Mar 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4d11c2e4-77bf-45bb-a4ca-b147fd024b1f</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-03-13-ab1ea1/13%20Mar%2022%20-%20Finding%20Time%20-%20Reclaiming%20Sabbath.mp3" length="98978920" type="audio/mpeg"/>
+      <itunes:title>Finding Time - Reclaiming Sabbath</itunes:title>
+      <itunes:duration>41:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Finding Time - Finding Fullness</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+6 March 2022</p>]]></description>
+      <pubDate>Sun, 06 Mar 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ae330839-968d-42c4-b13a-08e2933f55d4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-03-06-638fcd/06%20Mar%2022%20-%20Finding%20Time%20-%20Finding%20Fullness.mp3" length="124806707" type="audio/mpeg"/>
+      <itunes:title>Finding Time - Finding Fullness</itunes:title>
+      <itunes:duration>52:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Finding Time - Breaking The Idol of Busyness</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+27 February 2022</p>]]></description>
+      <pubDate>Sun, 27 Feb 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">460231a5-03a0-4345-a4f7-011b92efea90</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-02-27-956a0b/27%20Feb%2022%20-%20Finding%20Time%20-%20Breaking%20The%20Idol%20of%20Busyness.mp3" length="89280181" type="audio/mpeg"/>
+      <itunes:title>Finding Time - Breaking The Idol of Busyness</itunes:title>
+      <itunes:duration>46:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Finding Time - Jesus, The Not So Seedy Lurker</title>
+      <description><![CDATA[<p>Rebecca O'Neil</p>
+<p>20 Feb 2022</p>]]></description>
+      <pubDate>Sun, 20 Feb 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">163d3d09-14dc-4a1e-883e-0d4ba8294c65</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-02-20-350d89/20%20Feb%2022%20-%20Finding%20Time%20-%20Jesus%2C%20The%20Not%20So%20Seedy%20Lurker.mp3" length="60267961" type="audio/mpeg"/>
+      <itunes:title>Finding Time - Jesus, The Not So Seedy Lurker</itunes:title>
+      <itunes:duration>31:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Finding Time - Accelerate Or Be Left Behind</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>13 Feb 2022</p>]]></description>
+      <pubDate>Sun, 13 Feb 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">19e0e36e-4e3e-40fb-ada8-ee64587e27c1</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-02-13-252c6a/13%20Feb%2022%20-%20Finding%20Time%20-%20Accelerate%20Or%20Be%20Left%20Behind.mp3" length="73525627" type="audio/mpeg"/>
+      <itunes:title>Finding Time - Accelerate Or Be Left Behind</itunes:title>
+      <itunes:duration>38:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Finding Time - Hurry Sickness</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>6 Feb 2022</p>]]></description>
+      <pubDate>Sun, 06 Feb 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fee2a69b-a13c-417e-a51e-07f15427e7a4</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-02-06-06aa77/06%20Feb%2022%20-%20Finding%20Time%20-%20Hurry%20Sickness.mp3" length="78233520" type="audio/mpeg"/>
+      <itunes:title>Finding Time - Hurry Sickness</itunes:title>
+      <itunes:duration>40:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>God of the Ordinary - The Feasting and The Fasting</title>
+      <description><![CDATA[<p>Brooke Friend<br />
+30 Jan 2022</p>]]></description>
+      <pubDate>Sun, 30 Jan 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">afb20bac-4bce-44a8-9069-1803533ea528</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-01-30-9dcc55/30%20Jan%2022%20-%20God%20of%20the%20Ordinary%20-%20The%20Feasting%20and%20The%20Fasting.mp3" length="82962724" type="audio/mpeg"/>
+      <itunes:title>God of the Ordinary - The Feasting and The Fasting</itunes:title>
+      <itunes:duration>34:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>God of the Ordinary - Be Present In The Vine</title>
+      <description><![CDATA[<p>Brooke Friend<br />
+23 Jan 2022</p>]]></description>
+      <pubDate>Sun, 23 Jan 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9a1b69b2-357e-4413-91ff-207575badb0b</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-01-23-7719c3/23%20Jan%2022%20-%20God%20of%20the%20Ordinary%20-%20Be%20Present%20In%20The%20Vine.mp3" length="77519851" type="audio/mpeg"/>
+      <itunes:title>God of the Ordinary - Be Present In The Vine</itunes:title>
+      <itunes:duration>32:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>God Of The Ordinary - What Are Our Intentions?</title>
+      <description><![CDATA[<p>Brooke Friend<br />
+16 Jan 2022</p>]]></description>
+      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">68cac998-b6f0-4633-95f8-94012819a5b5</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2022-01-16-5837cb/16%20Jan%2022%20-%20God%20Of%20The%20Ordinary%20-%20What%20Are%20Our%20Intentions.mp3" length="93846381" type="audio/mpeg"/>
+      <itunes:title>God Of The Ordinary - What Are Our Intentions?</itunes:title>
+      <itunes:duration>39:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Witness - The Gospel of Authenticity</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+21 March 2021</p>]]></description>
+      <pubDate>Sun, 21 Mar 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ed275785-8539-4eaf-8322-abca7c0627b9</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-03-21-bda556/21%20Mar%2021%20-%20Witness%20-%20The%20Gospel%20of%20Authenticity.mp3" length="54721432" type="audio/mpeg"/>
+      <itunes:title>Witness - The Gospel of Authenticity</itunes:title>
+      <itunes:duration>37:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Witness - Evangelism in a Secular Age</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+14 March 2021</p>]]></description>
+      <pubDate>Sun, 14 Mar 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">275654ad-12ff-4573-8882-fb351f93b46e</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-03-14-f74f4f/14%20Mar%2021%20-%20Witness%20-%20Evangelism%20in%20a%20Secular%20Age.mp3" length="64460300" type="audio/mpeg"/>
+      <itunes:title>Witness - Evangelism in a Secular Age</itunes:title>
+      <itunes:duration>44:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Witness - Bear Witness</title>
+      <description><![CDATA[<p>Colin Gruetzmacher</p>
+<p>7 March 2021</p>]]></description>
+      <pubDate>Sun, 07 Mar 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d19157a8-e6e2-45bf-a41a-e35c1a199661</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-03-07-bed58c/07%20Mar%2021%20-%20Witness%20-%20Bear%20Witness.mp3" length="42390174" type="audio/mpeg"/>
+      <itunes:title>Witness - Bear Witness</itunes:title>
+      <itunes:duration>29:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Witness - An Exploratory Discussion</title>
+      <description><![CDATA[<p>Colin Gruetzmacher, Brooke Friend and Bernie Cowan</p>
+<p>28 Feb 2021</p>]]></description>
+      <pubDate>Sun, 28 Feb 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">468d2170-94f9-4b66-823b-36b1e6b1f47c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-02-28-416301/28%20Feb%2021%20-%20Witness%20-%20An%20Exploratory%20Discussion.mp3" length="47274027" type="audio/mpeg"/>
+      <itunes:title>Witness - An Exploratory Discussion</itunes:title>
+      <itunes:duration>32:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Te Tiriti o Waitangi - It's About Relationship</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+21 Feb 2021</p>]]></description>
+      <pubDate>Sun, 21 Feb 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">80b6e8f1-adf5-40d8-8916-607b366af467</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-02-21-dd13e5/21%20Feb%2021%20-%20Te%20Tiriti%20o%20Waitangi%20-%20It%27s%20About%20Relationship.mp3" length="61477325" type="audio/mpeg"/>
+      <itunes:title>Te Tiriti o Waitangi - It's About Relationship</itunes:title>
+      <itunes:duration>42:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>Te Tiriti o Waitangi - The Story of Waitangi</title>
+      <description><![CDATA[<p>Jay Ruka<br />
+7 Feb 2021</p>]]></description>
+      <pubDate>Sun, 07 Feb 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">84088c91-5f24-4579-b347-2998233a075c</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-02-07-aca2e5/07%20Feb%2021%20-%20Te%20Tiriti%20o%20Waitangi%20-%20The%20Story%20of%20Waitangi.mp3" length="57784028" type="audio/mpeg"/>
+      <itunes:title>Te Tiriti o Waitangi - The Story of Waitangi</itunes:title>
+      <itunes:duration>40:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>First Things First - Jesus Is Tenting With Us</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+31 Jan 2021</p>]]></description>
+      <pubDate>Sun, 31 Jan 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">17d1ac63-cc9e-49c0-aee8-d46f078335bc</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-01-31-683161/31%20Jan%2021%20-%20First%20Things%20First%20-%20Jesus%20Is%20Tenting%20With%20Us.mp3" length="44873478" type="audio/mpeg"/>
+      <itunes:title>First Things First - Jesus Is Tenting With Us</itunes:title>
+      <itunes:duration>31:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+    <item>
+      <title>First Things First - Just Let Go</title>
+      <description><![CDATA[<p>Colin Gruetzmacher<br />
+24 Jan 2021</p>]]></description>
+      <pubDate>Sun, 24 Jan 2021 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d814e492-087e-4442-94eb-1ec8d051f862</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2021-01-24-008373/24%20Jan%2021%20-%20First%20Things%20First%20-%20Just%20Let%20Go.mp3" length="47547999" type="audio/mpeg"/>
+      <itunes:title>First Things First - Just Let Go</itunes:title>
+      <itunes:duration>33:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
