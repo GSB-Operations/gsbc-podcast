@@ -2,7 +2,8 @@
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Golden Sands Baptist Church Sermons</title>
     <link>https://www.goldensandsbaptist.com/</link>
@@ -10,7 +11,7 @@
     <language>en-NZ</language>
     <copyright>Golden Sands Baptist Church</copyright>
     <description><![CDATA[Sunday sermons from Golden Sands Baptist Church in Papamoa, New Zealand.]]></description>
-    <lastBuildDate>Thu, 07 May 2026 23:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:00:59 +0000</lastBuildDate>
     <itunes:author>Golden Sands Baptist Church</itunes:author>
     <itunes:summary><![CDATA[Sunday sermons from Golden Sands Baptist Church in Papamoa, New Zealand.]]></itunes:summary>
     <itunes:owner>
@@ -23,6 +24,8 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <podcast:guid>7303dc83-a3bd-540e-928a-96a52eae29bd</podcast:guid>
+    <podcast:locked owner="operations@goldensands.nz">no</podcast:locked>
     <item>
       <title>Youth Report Back</title>
       <description><![CDATA[<p>GSB Youth</p><p><br /></p><p>18 May 2025</p>]]></description>
@@ -34,6 +37,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - The Fig Tree</title>
@@ -46,6 +50,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Michael Rhodes</title>
@@ -58,6 +63,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Cleansing of Temple</title>
@@ -70,6 +76,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Easter Sunday</title>
@@ -82,6 +89,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Palm Sunday</title>
@@ -94,6 +102,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Healing of the Blind</title>
@@ -106,6 +115,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Greatness in the Kingdom</title>
@@ -118,6 +128,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Workers In the Vineyard</title>
@@ -130,6 +141,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Rich &amp; The Kingdom</title>
@@ -142,6 +154,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Singleness &amp; Children</title>
@@ -154,6 +167,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew: Towards Jerusalem - Marriage &amp; Divorce</title>
@@ -166,6 +180,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>One Another - Blessing &amp; Elevating</title>
@@ -178,6 +193,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>One Another - Gifts &amp; Participation</title>
@@ -190,6 +206,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>One Another - Humility &amp; Pride</title>
@@ -202,6 +219,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>One Another - Church As Community</title>
@@ -214,6 +232,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series - Blue Bradley</title>
@@ -226,6 +245,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series - Bernie Cowan</title>
@@ -238,6 +258,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series - Cameron &amp; Larissa</title>
@@ -250,6 +271,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Advent</title>
@@ -262,6 +284,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Keeping In Step with the Spirit</title>
@@ -276,6 +299,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Baptism</title>
@@ -290,6 +314,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Healing Physical</title>
@@ -304,6 +329,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Healing - Internal</title>
@@ -318,6 +344,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Speaking In Tounges</title>
@@ -332,6 +359,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Wisdom / Vocation</title>
@@ -346,6 +374,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Hearing Gods Voice (Prophecy)</title>
@@ -360,6 +389,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Hearing Gods Voice (Discernment)</title>
@@ -374,6 +404,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Gifts: Finished or Today?</title>
@@ -388,6 +419,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Sanctification (Fruit of the Spirit)</title>
@@ -402,6 +434,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Eschatology (Now &amp; Not Yet)</title>
@@ -416,6 +449,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Empowering Presence/Temples</title>
@@ -430,6 +464,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Mission</title>
@@ -445,6 +480,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Ruach/Breath</title>
@@ -459,6 +495,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Person &amp; Trinity</title>
@@ -473,6 +510,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Holy Spirit - Are You Thirsty?</title>
@@ -487,6 +525,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Psalms - Lament</title>
@@ -501,6 +540,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Psalms - Confession</title>
@@ -515,6 +555,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Psalms - A Praise</title>
@@ -529,6 +570,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>People</title>
@@ -543,6 +585,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 10th Commandment</title>
@@ -557,6 +600,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Speak Life</title>
@@ -572,6 +616,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 9th Commandment</title>
@@ -586,6 +631,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 8th Commandment</title>
@@ -600,6 +646,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matariki 2024</title>
@@ -614,6 +661,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 7th Commandment</title>
@@ -628,6 +676,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 6th Commandment</title>
@@ -642,6 +691,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Parable of the Sower</title>
@@ -656,6 +706,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 5th Commandment</title>
@@ -670,6 +721,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Living With A Bigger Vision</title>
@@ -684,6 +736,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 4th Commandment</title>
@@ -698,6 +751,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Influence</title>
@@ -713,6 +767,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 3rd Commandment</title>
@@ -727,6 +782,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 2nd Commandment</title>
@@ -741,6 +797,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Ten Commandments - 1st Commandment</title>
@@ -755,6 +812,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Baptism - Vertical &amp; Horizontal</title>
@@ -769,6 +827,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>All Things New - Values</title>
@@ -783,6 +842,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Easter Sunday 2024</title>
@@ -797,6 +857,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Cruciform Community - Forgiveness</title>
@@ -811,6 +872,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Cruciform Community - Confrontation</title>
@@ -825,6 +887,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Grace seen</title>
@@ -839,6 +902,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Cruciform Community - Repentance</title>
@@ -853,6 +917,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Truth &amp; Grace Diaries</title>
@@ -867,6 +932,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Cruciform Community - Leadership</title>
@@ -881,6 +947,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Cruciform Community - Freedom</title>
@@ -895,6 +962,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Thinking Matters</title>
@@ -909,6 +977,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series - Intentionally Intergenerational Community</title>
@@ -923,6 +992,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series - Talk with God</title>
@@ -937,6 +1007,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series - Missing God in a Secular Age</title>
@@ -951,6 +1022,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Christmas Eve</title>
@@ -965,6 +1037,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Advent - Joy</title>
@@ -979,6 +1052,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Advent - Peace</title>
@@ -993,6 +1067,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Advent - Love</title>
@@ -1010,6 +1085,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Home Assignment</title>
@@ -1024,6 +1100,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Advent - Wait</title>
@@ -1038,6 +1115,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Christ is King</title>
@@ -1052,6 +1130,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>And They Devoted Themselves</title>
@@ -1066,6 +1145,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>CAP</title>
@@ -1082,6 +1162,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - Faith &amp; Prayer</title>
@@ -1098,6 +1179,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - Mountain Top View</title>
@@ -1112,6 +1194,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - The Way of the Cross</title>
@@ -1128,6 +1211,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - Who Do You Say Jesus Is?</title>
@@ -1143,6 +1227,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - God On Our Team?</title>
@@ -1156,6 +1241,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>All Things New - Jesus Our Hope</title>
@@ -1170,6 +1256,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>All Things New - Talents</title>
@@ -1187,6 +1274,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>All Things New - We are The Body</title>
@@ -1201,6 +1289,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>All Things New - Exiles</title>
@@ -1214,6 +1303,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - Bread</title>
@@ -1227,6 +1317,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - Breaks</title>
@@ -1240,6 +1331,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - Ruining a Good Thing</title>
@@ -1253,6 +1345,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Matthew - Chaotic Waters</title>
@@ -1266,6 +1359,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Foundations - Community</title>
@@ -1279,6 +1373,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Foundations - Mission</title>
@@ -1292,6 +1387,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Foundations - Discipleship</title>
@@ -1305,6 +1401,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Foundations - Worship</title>
@@ -1318,6 +1415,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Opening Sunday Service</title>
@@ -1331,6 +1429,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Big Move</title>
@@ -1344,6 +1443,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Tales of the Kingdom - Corrupt Kings</title>
@@ -1357,6 +1457,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Tales of the Kingdom - Rejection Narrative</title>
@@ -1370,6 +1471,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Tales of the Kingdom - Treasures and Pearls</title>
@@ -1387,6 +1489,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Tales of the Kingdom - Small, but Alive</title>
@@ -1400,6 +1503,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Tales of the Kingdom - Wheat, Weeds and Hell</title>
@@ -1413,6 +1517,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - God Is Building Something Here</title>
@@ -1425,6 +1530,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Tales of the Kingdom - Parable of the Sower</title>
@@ -1438,6 +1544,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Tales of the Kingdom - Who are my Brothers? Who are my Sisters?</title>
@@ -1451,6 +1558,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Heart of Sin - Sin as Slavery</title>
@@ -1464,6 +1572,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Heart of Sin - Replacing God as King</title>
@@ -1477,6 +1586,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Heart of Sin - Selfish Sin</title>
@@ -1490,6 +1600,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Heart of Sin - Sin Never Left</title>
@@ -1503,6 +1614,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Choose The Good Yoke - Making Your Own God</title>
@@ -1516,6 +1628,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Choose The Good Yoke - The Unforgiveable Sin</title>
@@ -1529,6 +1642,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Choose the Good Yoke - Getting back to the "Why"</title>
@@ -1544,6 +1658,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Choose The Good Yoke - On His Terms</title>
@@ -1557,6 +1672,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Choose the Good Yoke - From Behind Bars</title>
@@ -1570,6 +1686,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series '23 - Exiles in Babylon</title>
@@ -1583,6 +1700,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series '23 - Grounded Identity</title>
@@ -1596,6 +1714,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Summer Series '23 - Lift Your Eyes Up</title>
@@ -1609,6 +1728,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - First Cycle - Chp 4: Who's Really In Charge?</title>
@@ -1622,6 +1742,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - First Cycle - Chp 5: The Lamb</title>
@@ -1635,6 +1756,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - First Cycle - Chp 6: Horses, Martyrs and Empire</title>
@@ -1648,6 +1770,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - First Cycle - Chp 7: There Is Room For You Here</title>
@@ -1661,6 +1784,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - First Cycle - Chp 8/9: Is Jesus Just Another Zeus?</title>
@@ -1674,6 +1798,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - First Cycle - Chp 10: Sweet And Sour</title>
@@ -1687,6 +1812,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - First Cycle - Chp 11: The Final Trumpet</title>
@@ -1700,6 +1826,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Second Cycle - Chp12: The Woman, The Dragon and The Gospel</title>
@@ -1713,6 +1840,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Second Cycle - Chp 13: Beasts, 666 and Empires Then and Now</title>
@@ -1726,6 +1854,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Second Cycle - Chp 14: A Tale of Two Kingdoms</title>
@@ -1739,6 +1868,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Second Cycle - Chp 15: A Song Of The Kingdom</title>
@@ -1753,6 +1883,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Second Cycle - Chp 16: A New Exodus</title>
@@ -1766,6 +1897,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Second Cycle - Chp 17: McDonalds in Babylon</title>
@@ -1779,6 +1911,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Second Cycle - Chp 18: Leaving Babylon</title>
@@ -1793,6 +1926,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Renewal of All - Chp 19: Weddings and Wars</title>
@@ -1806,6 +1940,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Renewal of All - Chp 20 Pt 1: Millenium, God's Yes and God's No</title>
@@ -1819,6 +1954,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Renewal of All - Chp 20 Pt 2: Hell and Justice</title>
@@ -1832,6 +1968,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Renewal of All - Chp 21 Pt 1: All Things New</title>
@@ -1845,6 +1982,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Renewal of All - Chp 21 Pt 2: Heaven as Resistance</title>
@@ -1858,6 +1996,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - Renewal of All - Chp 22: The Conclusion</title>
@@ -1871,6 +2010,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - It's All About Jesus</title>
@@ -1884,6 +2024,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - Ephesus: Truth Vs Love</title>
@@ -1897,6 +2038,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - Smyrna: It's Not About Us</title>
@@ -1910,6 +2052,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - Pergamum</title>
@@ -1923,6 +2066,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - Thyatira: Faithfulness and Justice</title>
@@ -1936,6 +2080,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - Sardis: Wake Up</title>
@@ -1949,6 +2094,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - Philadelphia: Finding Belonging</title>
@@ -1962,6 +2108,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>The Fifth Gospel - 7 Letters - Laodicea: Beyond Sameness</title>
@@ -1975,6 +2122,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Advent - Peace Comes In The Small Places</title>
@@ -1988,6 +2136,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Advent - Courageous Joy</title>
@@ -2001,6 +2150,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - All Things New: God's Work, Following Him</title>
@@ -2014,6 +2164,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>At All Costs - What To Do When Jesus Gets Salty</title>
@@ -2027,6 +2178,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>At All Costs - Jesus' Reality</title>
@@ -2040,6 +2192,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - Our Gifts for Your Glory</title>
@@ -2054,6 +2207,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>At All Costs - Persecution is Assumed</title>
@@ -2067,6 +2221,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>At All Costs - Where Are You Called To Go?</title>
@@ -2080,6 +2235,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>At All Costs - God Uses Broken People Like Us</title>
@@ -2093,6 +2249,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Guiding Lights - A Community of Vulnerability in a Culture of Performance</title>
@@ -2106,6 +2263,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Guiding Lights - A Community of Difference in a Culture of Polarisation</title>
@@ -2119,6 +2277,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Guiding Lights - A Community of Peace in a Culture of Hurry</title>
@@ -2132,6 +2291,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Guiding Lights - A Community of Exiles in a Culture of Comfort</title>
@@ -2145,6 +2305,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone: God With Us - A Community of Encounters</title>
@@ -2158,6 +2319,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Deep Wells - A Transformed Identity</title>
@@ -2171,6 +2333,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Deep Wells - Rhythm That Transforms Us</title>
@@ -2184,6 +2347,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Deep Wells - Risk As Rebellion</title>
@@ -2197,6 +2361,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone: What Do You Want To Be Remembered For?</title>
@@ -2210,6 +2375,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Deep Wells - A Spirituality of Struggle</title>
@@ -2223,6 +2389,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - God At Work When We Gather</title>
@@ -2236,6 +2403,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Deep Wells - Belonging</title>
@@ -2249,6 +2417,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Deep Wells - Martyrs &amp; Witness</title>
@@ -2262,6 +2431,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - Strong &amp; Courageous</title>
@@ -2275,6 +2445,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Jesus, As We Draw Near He Refines Us</title>
@@ -2288,6 +2459,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Jesus, Raising us to Resurrection Life</title>
@@ -2301,6 +2473,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Jesus, the Center of Our Community</title>
@@ -2314,6 +2487,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Jesus, Authority Like No Other</title>
@@ -2327,6 +2501,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Jesus, Lord Over All</title>
@@ -2340,6 +2515,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Jesus, Behold Him in the Storm and in the Normal</title>
@@ -2353,6 +2529,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Transformational Discipleship Goes Deep</title>
@@ -2366,6 +2543,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Take Heart, Follow Me - Jesus, The Wall-Breaker</title>
@@ -2379,6 +2557,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - Re-imagining Church and Mission for a New Season</title>
@@ -2392,6 +2571,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Easter - Life Beyond The Horizon</title>
@@ -2405,6 +2585,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Easter - A Unique Procession</title>
@@ -2418,6 +2599,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - The Best Book To Read Is The Bible</title>
@@ -2431,6 +2613,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Stand Alone - The Saviour That Makes All Things New</title>
@@ -2444,6 +2627,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Finding Time - Connecting With Others</title>
@@ -2457,6 +2641,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Finding Time - Reclaiming Sabbath</title>
@@ -2470,6 +2655,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Finding Time - Finding Fullness</title>
@@ -2483,6 +2669,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Finding Time - Breaking The Idol of Busyness</title>
@@ -2496,6 +2683,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Finding Time - Jesus, The Not So Seedy Lurker</title>
@@ -2509,6 +2697,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Finding Time - Accelerate Or Be Left Behind</title>
@@ -2522,6 +2711,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Finding Time - Hurry Sickness</title>
@@ -2535,6 +2725,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>God of the Ordinary - The Feasting and The Fasting</title>
@@ -2548,6 +2739,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>God of the Ordinary - Be Present In The Vine</title>
@@ -2561,6 +2753,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>God Of The Ordinary - What Are Our Intentions?</title>
@@ -2574,6 +2767,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Witness - The Gospel of Authenticity</title>
@@ -2587,6 +2781,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Witness - Evangelism in a Secular Age</title>
@@ -2600,6 +2795,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Witness - Bear Witness</title>
@@ -2613,6 +2809,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Witness - An Exploratory Discussion</title>
@@ -2626,6 +2823,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Te Tiriti o Waitangi - It's About Relationship</title>
@@ -2639,6 +2837,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>Te Tiriti o Waitangi - The Story of Waitangi</title>
@@ -2652,6 +2851,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>First Things First - Jesus Is Tenting With Us</title>
@@ -2665,6 +2865,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
     <item>
       <title>First Things First - Just Let Go</title>
@@ -2678,6 +2879,7 @@ Brian Winslade<br />
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.goldensandsbaptist.com/</link>
     </item>
   </channel>
 </rss>
