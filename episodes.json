@@ -1,5 +1,20 @@
 [
   {
+    "guid": "gsbc-25_May_25_-_One_Whole_Story-5be353abc6070f21",
+    "title": "One Whole Story",
+    "description": "Bernie Cowan\r\n\r\nSunday sermon from Golden Sands Baptist Church, 25 May 2025.",
+    "pub_date_iso": "2025-05-25",
+    "enclosure_url": "https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-05-25-b3aa5b/25%20May%2025%20-%20One%20Whole%20Story.mp3",
+    "enclosure_size": 37123657,
+    "enclosure_mime": "audio/mpeg",
+    "duration_seconds": 2317,
+    "season": null,
+    "episode": null,
+    "image_url": "https://gsb-operations.github.io/gsbc-podcast/cover.jpg",
+    "explicit": false,
+    "youtube_url": "https://www.youtube.com/watch?v=Omej9RZqgTY"
+  },
+  {
     "guid": "6ac46cdd-4422-4c38-91c5-0511cb38cfa5",
     "title": "Youth Report Back",
     "description": "<p>GSB Youth</p><p><br /></p><p>18 May 2025</p>",
