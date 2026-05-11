@@ -1,5 +1,20 @@
 [
   {
+    "guid": "gsbc-14_Sep_25_-_Matthew_25-eb002c48da1b7a0f",
+    "title": "Matthew 25",
+    "description": "Sunday sermon from Golden Sands Baptist Church, 14 September 2025.\n\nOriginal livestream: https://www.youtube.com/watch?v=2pdt52B76mw",
+    "pub_date_iso": "2025-09-14",
+    "enclosure_url": "https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-09-14-7dd7fe/14%20Sep%2025%20-%20Matthew%2025.mp3",
+    "enclosure_size": 20441706,
+    "enclosure_mime": "audio/mpeg",
+    "duration_seconds": 1276,
+    "season": null,
+    "episode": null,
+    "image_url": "https://gsb-operations.github.io/gsbc-podcast/cover.jpg",
+    "explicit": false,
+    "youtube_url": "https://www.youtube.com/watch?v=2pdt52B76mw"
+  },
+  {
     "guid": "gsbc-06_Jul_25_-_Sunday_Sermon-d2a87894a31289f8",
     "title": "Sunday Sermon",
     "description": "Sunday sermon from Golden Sands Baptist Church, 06 July 2025.\n\nOriginal livestream: https://www.youtube.com/watch?v=N1YyBJQzdhQ",
