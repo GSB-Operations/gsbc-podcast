@@ -1,5 +1,20 @@
 [
   {
+    "guid": "gsbc-06_Jul_25_-_Sunday_Sermon-d2a87894a31289f8",
+    "title": "Sunday Sermon",
+    "description": "Sunday sermon from Golden Sands Baptist Church, 06 July 2025.\n\nOriginal livestream: https://www.youtube.com/watch?v=N1YyBJQzdhQ",
+    "pub_date_iso": "2025-07-06",
+    "enclosure_url": "https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-07-06-5ec89b/06%20Jul%2025%20-%20Sunday%20Sermon.mp3",
+    "enclosure_size": 39525146,
+    "enclosure_mime": "audio/mpeg",
+    "duration_seconds": 2467,
+    "season": null,
+    "episode": null,
+    "image_url": "https://gsb-operations.github.io/gsbc-podcast/cover.jpg",
+    "explicit": false,
+    "youtube_url": "https://www.youtube.com/watch?v=N1YyBJQzdhQ"
+  },
+  {
     "guid": "gsbc-25_May_25_-_One_Whole_Story-5be353abc6070f21",
     "title": "One Whole Story",
     "description": "Bernie Cowan\r\n\r\nSunday sermon from Golden Sands Baptist Church, 25 May 2025.",
