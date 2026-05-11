@@ -1,5 +1,20 @@
 [
   {
+    "guid": "gsbc-26_Oct_25_-_Revelation_17-3a9f9cb98efba4a5",
+    "title": "Revelation 17",
+    "description": "Sunday sermon from Golden Sands Baptist Church, 26 October 2025.\n\nOriginal livestream: https://www.youtube.com/watch?v=NHlAnq7NVvg",
+    "pub_date_iso": "2025-10-26",
+    "enclosure_url": "https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-10-26-e8b58e/26%20Oct%2025%20-%20Revelation%2017.mp3",
+    "enclosure_size": 7867384,
+    "enclosure_mime": "audio/mpeg",
+    "duration_seconds": 491,
+    "season": null,
+    "episode": null,
+    "image_url": "https://gsb-operations.github.io/gsbc-podcast/cover.jpg",
+    "explicit": false,
+    "youtube_url": "https://www.youtube.com/watch?v=NHlAnq7NVvg"
+  },
+  {
     "guid": "gsbc-12_Oct_25_-_Numbers_18-43c7dbe29c771418",
     "title": "Numbers 18",
     "description": "Sunday sermon from Golden Sands Baptist Church, 12 October 2025.\n\nOriginal livestream: https://www.youtube.com/watch?v=g81q86FRwp0",
