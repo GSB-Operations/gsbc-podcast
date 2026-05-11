@@ -11,7 +11,7 @@
     <language>en-NZ</language>
     <copyright>Golden Sands Baptist Church</copyright>
     <description><![CDATA[Sunday sermons from Golden Sands Baptist Church in Papamoa, New Zealand.]]></description>
-    <lastBuildDate>Mon, 11 May 2026 04:46:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:33:15 +0000</lastBuildDate>
     <itunes:author>Golden Sands Baptist Church</itunes:author>
     <itunes:summary><![CDATA[Sunday sermons from Golden Sands Baptist Church in Papamoa, New Zealand.]]></itunes:summary>
     <itunes:owner>
@@ -26,6 +26,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:guid>7303dc83-a3bd-540e-928a-96a52eae29bd</podcast:guid>
     <podcast:locked owner="operations@goldensands.nz">no</podcast:locked>
+    <item>
+      <title>Sunday Sermon</title>
+      <description><![CDATA[Sunday sermon from Golden Sands Baptist Church, 16 November 2025.
+
+Original livestream: https://www.youtube.com/watch?v=UfWDZOhBIaE]]></description>
+      <pubDate>Sun, 16 Nov 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">gsbc-16_Nov_25_-_Sunday_Sermon-556596edf8f1c1eb</guid>
+      <enclosure url="https://github.com/GSB-Operations/gsbc-podcast/releases/download/ep-2025-11-16-79e2f2/16%20Nov%2025%20-%20Sunday%20Sermon.mp3" length="2546882" type="audio/mpeg"/>
+      <itunes:title>Sunday Sermon</itunes:title>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://gsb-operations.github.io/gsbc-podcast/cover.jpg"/>
+      <link>https://www.youtube.com/watch?v=UfWDZOhBIaE</link>
+    </item>
     <item>
       <title>Revelation 17</title>
       <description><![CDATA[Sunday sermon from Golden Sands Baptist Church, 26 October 2025.
